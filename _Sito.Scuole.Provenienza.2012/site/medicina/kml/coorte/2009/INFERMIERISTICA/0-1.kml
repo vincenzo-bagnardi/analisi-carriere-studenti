@@ -1,0 +1,3602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt1">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt3">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt4">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt6">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt7">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt8">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt10">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt12">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt14">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt15">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt17">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt18">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt19">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt22">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt23">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt31">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt32">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt33">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt34">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt35">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt36">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt38">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt45">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt46">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt47">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt49">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt50">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt53">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt55">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt56">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt58">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt60">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt65">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt68">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt69">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt73">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt74">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt75">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt77">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt79">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt83">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt84">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt85">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt86">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt87">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt88">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt90">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt91">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt93">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt94">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt95">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt96">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt97">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt98">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt99">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt100">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt101">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt102">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt104">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt106">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt108">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt109">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt110">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt111">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt112">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt113">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt114">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt115">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt116">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt117">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt118">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt120">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt121">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt122">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt124">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt125">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt127">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt128">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt129">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt131">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt132">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt133">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt134">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt135">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt136">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt138">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt141">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt143">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt146">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt147">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt148">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt149">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:1</name>
+<styleUrl>#pnt1</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>Bergamo</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE</td></tr>
+<tr><td>Indirizzo</td><td>,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>62</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6772698,45.6982642,3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:3</name>
+<styleUrl>#pnt3</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>KENYA</td></tr>
+<tr><td>Istituto</td><td></td></tr>
+<tr><td>Indirizzo</td><td>,KENYA,,</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>37.906193,-0.023559,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:4</name>
+<styleUrl>#pnt4</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>PERU'</td></tr>
+<tr><td>Istituto</td><td></td></tr>
+<tr><td>Indirizzo</td><td>,PERU',,</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>2</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-75.015152,-9.189967,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:6</name>
+<styleUrl>#pnt6</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RUSSIA - FEDERAZIONE RUSSA</td></tr>
+<tr><td>Istituto</td><td></td></tr>
+<tr><td>Indirizzo</td><td>,RUSSIA - FEDERAZIONE RUSSA,,</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>44</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>37.577814,55.710794,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:7</name>
+<styleUrl>#pnt7</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VVPS01000R</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G.BERTO</td></tr>
+<tr><td>Indirizzo</td><td>C.DA BITONTO,Vibo Valentia,VV,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>56</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>16.0892174,38.6679403,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:8</name>
+<styleUrl>#pnt8</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CLTD06500C</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI   M. BUONARROTI</td></tr>
+<tr><td>Indirizzo</td><td>Corso Vittorio Emanuele 197,Gela,CL,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>14.253757,37.065005,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:10</name>
+<styleUrl>#pnt10</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPM050003</td></tr>
+<tr><td>Istituto</td><td>LICEO VIRGILIO</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA ASCOLI 2,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>107</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2518443,45.492128,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:12</name>
+<styleUrl>#pnt12</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPC02000C</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO SARPI</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA ROSATE 4,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6619477,45.7029301,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:14</name>
+<styleUrl>#pnt14</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS00300C</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE "BETTY AMBIVERI"</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA S.S. PIETRO E PAOLO,12,Ponte San Pietro,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - IST PROF PER I SERVIZI COMMERCIALI E TURISTICI - ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5924781,45.6967909,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:15</name>
+<styleUrl>#pnt15</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>PGPC01000X</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO STATALEMARIOTTI A.</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA SAN PAOLO,3,Perugia,PG,Umbria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>66</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>12.3852479,43.1137679,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:17</name>
+<styleUrl>#pnt17</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CTPS019011</td></tr>
+<tr><td>Istituto</td><td>L. SCIENTIFICO RAMACCA</td></tr>
+<tr><td>Indirizzo</td><td>SEZIONE ASSOCIATA AD ISTITUTO D'ISTRUZIONE SUPERIORE  CTIS01900E,Ramacca,CT,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>14.6935384,37.3851428,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:18</name>
+<styleUrl>#pnt18</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCTL02500D</td></tr>
+<tr><td>Istituto</td><td>IST. TECNICO LEGAL.RICON. DANTE ALIGHIERI</td></tr>
+<tr><td>Indirizzo</td><td>V. CADUTI LECCHESI A FOSSOLI 7/9,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>20</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4045471,45.8489455,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:19</name>
+<styleUrl>#pnt19</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS06500Q</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO PARITARIO E. FERMI</td></tr>
+<tr><td>Indirizzo</td><td>V.ALFIERI 12,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1761934,45.4789198,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:22</name>
+<styleUrl>#pnt22</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF290008</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO INDUSTRIALE ETTORE CONTI</td></tr>
+<tr><td>Indirizzo</td><td>VIA A. DE VINCENTI 11,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1406199,45.4760863,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:23</name>
+<styleUrl>#pnt23</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VATD08000G</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI GINO ZAPPA</td></tr>
+<tr><td>Indirizzo</td><td>VIA ACHILLE GRANDI 4,Saronno,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0193708,45.6269507,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:31</name>
+<styleUrl>#pnt31</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAPS020004</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G. B. GRASSI</td></tr>
+<tr><td>Indirizzo</td><td>VIA B. CROCE,Saronno,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>44</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0246236,45.6282564,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:32</name>
+<styleUrl>#pnt32</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCTD02000X</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI G.PARINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BADONI 2,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>53</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4007068,45.8516735,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:33</name>
+<styleUrl>#pnt33</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COPM02500E</td></tr>
+<tr><td>Istituto</td><td>LICEO MATILDE DI CANOSSA</td></tr>
+<tr><td>Indirizzo</td><td>VIA BALESTRA 10,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>58</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0878787,45.8081497,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:34</name>
+<styleUrl>#pnt34</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPC01202G</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO "FANTONI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA BARBARIGO 27,Clusone,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.96421,45.8903899,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:35</name>
+<styleUrl>#pnt35</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCRI01000P</td></tr>
+<tr><td>Istituto</td><td>IST. PROF.INDUSTRIA E ARTIGIANATO FIOCCHI P.A.</td></tr>
+<tr><td>Indirizzo</td><td>VIA BELFIORE 4,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4049239,45.8519963,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:36</name>
+<styleUrl>#pnt36</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGRH020009</td></tr>
+<tr><td>Istituto</td><td>IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE   IPSSAR NEMBRO</td></tr>
+<tr><td>Indirizzo</td><td>VIA BELLINI 54,Nembro,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.743249,45.741965,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:38</name>
+<styleUrl>#pnt38</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF120005</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO INDUSTRIALE P.HENSEMBERGER</td></tr>
+<tr><td>Indirizzo</td><td>VIA BERCHET 2,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>25</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.219168,45.613687,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:45</name>
+<styleUrl>#pnt45</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SAPS01000G</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO A. GALLOTTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA CADUTI DI BRUXELLES,Eboli,SA,Campania</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>15.0486484,40.6148275,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:46</name>
+<styleUrl>#pnt46</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MISD02000L</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO D'ARTE MODIGLIANI</td></tr>
+<tr><td>Indirizzo</td><td>VIA CAIMI 5,Giussano,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO D'ARTE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>53</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2123094,45.6961752,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:47</name>
+<styleUrl>#pnt47</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCSL01000A</td></tr>
+<tr><td>Istituto</td><td>LICEO ARTISTICO MEDARDO ROSSO</td></tr>
+<tr><td>Indirizzo</td><td>VIA CALATAFIMI 5,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3925186,45.863034,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:49</name>
+<styleUrl>#pnt49</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NAPM040002</td></tr>
+<tr><td>Istituto</td><td>LICEO SERAO M.</td></tr>
+<tr><td>Indirizzo</td><td>VIA CARDUCCI 18,Pomigliano d'Arco,NA,Campania</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>64</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>14.394082,40.906655,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:50</name>
+<styleUrl>#pnt50</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COIS004003</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO ROMAGNOSI G. D.</td></tr>
+<tr><td>Indirizzo</td><td>VIA CARDUCCI 5,Erba,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE - ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>75</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.231526,45.81417,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:53</name>
+<styleUrl>#pnt53</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COPL025008</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO LEG. RICON. CASNATI</td></tr>
+<tr><td>Indirizzo</td><td>VIA CARLONI 8,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO LINGUISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0919429,45.8047183,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:55</name>
+<styleUrl>#pnt55</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SORI030001</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO G. P. ROMEGIALLI</td></tr>
+<tr><td>Indirizzo</td><td>VIA CORTIVACCI 3,Morbegno,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>63</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5623832,46.1331071,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:56</name>
+<styleUrl>#pnt56</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SOSL00101N</td></tr>
+<tr><td>Istituto</td><td>LICEO ARTISTICO STATALE FERRARI G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA CREDARO 18,Morbegno,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5660745,46.1355055,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:58</name>
+<styleUrl>#pnt58</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS020004</td></tr>
+<tr><td>Istituto</td><td>M. G. AGNESI</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI LODOVICHI 10,Merate,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>CENTRO TERRITORIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.425373,45.6941429,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:60</name>
+<styleUrl>#pnt60</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS01700A</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAJORANA E.</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI PARTIGIANI 1,Seriate,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO TECNICO INDUSTRIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6706506,45.6967423,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:65</name>
+<styleUrl>#pnt65</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD315005</td></tr>
+<tr><td>Istituto</td><td>COLLEGIO ARCIVESCOVILE PIO XI - PAPA RATTI</td></tr>
+<tr><td>Indirizzo</td><td>VIA DUE PALME 2,Desio,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.20898,45.621962,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:68</name>
+<styleUrl>#pnt68</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS415006</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO CARDUCCI</td></tr>
+<tr><td>Indirizzo</td><td>VIA F. APORTI 12,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>56</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2084157,45.4879994,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:69</name>
+<styleUrl>#pnt69</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGTD030002</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI VITTORIO EMANUELE II</td></tr>
+<tr><td>Indirizzo</td><td>VIA F. LUSSANA 2,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>60</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6748097,45.69218,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:73</name>
+<styleUrl>#pnt73</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRI006016</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PROFESSIONALE M.K. GANDHI BESANA IN BRIANZA</td></tr>
+<tr><td>Indirizzo</td><td>VIA GARIBALDI 12,Besana In Brianza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.291685,45.701315,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:74</name>
+<styleUrl>#pnt74</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS018006</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO G. GALLI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GAVAZZENI, 37,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST  PROF  PER I SERVIZI COMMERCIALI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>50</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6872507,45.6908296,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:75</name>
+<styleUrl>#pnt75</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS015004</td></tr>
+<tr><td>Istituto</td><td>LICEO E. FERMI BERGAMO</td></tr>
+<tr><td>Indirizzo</td><td>VIA GHISLANDI 57,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6863412,45.7012811,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:77</name>
+<styleUrl>#pnt77</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>TOPM050003</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE REGINA MARGHERITA</td></tr>
+<tr><td>Indirizzo</td><td>VIA GIORGIO BIDONE,9,Torino,TO,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>7.6767372,45.0529891,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:79</name>
+<styleUrl>#pnt79</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS02800B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE E.MONTALE  II PARCO NORD</td></tr>
+<tr><td>Indirizzo</td><td>VIA GORKI 100,Cinisello Balsamo,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI - ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>58</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.218414,45.543022,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:83</name>
+<styleUrl>#pnt83</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NAPMX00595</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PARITARIO 'G. PAPI'</td></tr>
+<tr><td>Indirizzo</td><td>VIA IMBRIANI 57,Pomigliano d'Arco,NA,Campania</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>14.389808,40.910868,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:84</name>
+<styleUrl>#pnt84</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>FGTF01000A</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO STATALE DA VINCI L.</td></tr>
+<tr><td>Indirizzo</td><td>VIA IMPERIALE 43,Foggia,FG,Puglia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>50</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>15.5642614,41.4478687,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:85</name>
+<styleUrl>#pnt85</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS00200L</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO STATALE S. WEIL</td></tr>
+<tr><td>Indirizzo</td><td>VIA L. GALVANI,7,Treviglio,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO - LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>45</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5857114,45.5198973,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:86</name>
+<styleUrl>#pnt86</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCIS003001</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE   "MARCO POLO"</td></tr>
+<tr><td>Indirizzo</td><td>VIA LA MADONETA 3,Colico,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>50</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.38657,46.13642,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:87</name>
+<styleUrl>#pnt87</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>AGPM00701A</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE GIUDICI SAETTA E LIVATINO</td></tr>
+<tr><td>Indirizzo</td><td>VIA LAURICELLA 2,Ravanusa,AG,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>13.9667492,37.2672084,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:88</name>
+<styleUrl>#pnt88</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MISL055002</td></tr>
+<tr><td>Istituto</td><td>LICEO ARTISTICO PREZIOSISSIMO SANGUE</td></tr>
+<tr><td>Indirizzo</td><td>VIA LECCO,6,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.266395,45.592162,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:90</name>
+<styleUrl>#pnt90</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS02700G</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE LEONARDO DA VINCI</td></tr>
+<tr><td>Indirizzo</td><td>VIA LEONARDO DA VINCI,Cologno Monzese,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>56</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2937151,45.5347564,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:91</name>
+<styleUrl>#pnt91</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SOTD00201C</td></tr>
+<tr><td>Istituto</td><td>IST. TEC. COMMERCIALE E GEOMETRI</td></tr>
+<tr><td>Indirizzo</td><td>VIA LEOPARDI 2,Bormio,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>61</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>10.364994,46.468061,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:93</name>
+<styleUrl>#pnt93</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS15000V</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO P. BOTTONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAC MAHON 96/98,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>69</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1569643,45.4947505,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:94</name>
+<styleUrl>#pnt94</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COIS00100G</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE VANONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MALAGRIDA P. G. 3,Menaggio,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE - IST TEC COMMERCIALE E PER GEOMETRI - ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>68</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2388285,46.0217068,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:95</name>
+<styleUrl>#pnt95</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>UDRI040009</td></tr>
+<tr><td>Istituto</td><td>IST.PROF. INDUSTRIA ARTIGIANATO  CECONI G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA MANZONI 6,Udine,UD,Friuli Venezia Giulia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>61</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>13.23411,46.00315,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:96</name>
+<styleUrl>#pnt96</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS00701R</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO FEDERIGO ENRIQUES</td></tr>
+<tr><td>Indirizzo</td><td>VIA MARTIRI DELLA LIBERTA' 124,Lissone,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2442406,45.6231634,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:97</name>
+<styleUrl>#pnt97</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COPS02000A</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO GALILEI G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA MARTIRI DELLA LIBERTA',Erba,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2439229,45.7607054,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:98</name>
+<styleUrl>#pnt98</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD400008</td></tr>
+<tr><td>Istituto</td><td>ITSOS MARIE CURIE</td></tr>
+<tr><td>Indirizzo</td><td>VIA MASACCIO 4,Cernusco Sul Naviglio,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3122002,45.5248299,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:99</name>
+<styleUrl>#pnt99</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CRTF02000G</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO INDUSTRIALE GALILEO GALILEI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MATILDE DI CANOSSA 21,Crema,CR,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>49</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.682359,45.355625,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:100</name>
+<styleUrl>#pnt100</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPMX00697</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO LEGALMENTE RICONOSCIUTO MARIA CONSOLATRICE</td></tr>
+<tr><td>Indirizzo</td><td>VIA MELCHIORRE GIOIA,51,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1985984,45.4874773,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:101</name>
+<styleUrl>#pnt101</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RCPS016011</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALEEUCLIDE</td></tr>
+<tr><td>Indirizzo</td><td>VIA MESOFUGNA,6,Bova Marina,RC,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>50</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>15.9136267,37.9342141,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:102</name>
+<styleUrl>#pnt102</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAPS06500N</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO LEGAL.RICON. PASCAL B.</td></tr>
+<tr><td>Indirizzo</td><td>VIA MIANI,1,Busto Arsizio,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>57</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.8532743,45.615313,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:104</name>
+<styleUrl>#pnt104</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS10500A</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO LEGAL.RICON.  SANT'ANGELA MERICI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MONTE ORTIGARA,14,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>60</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6706986,45.7008256,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:106</name>
+<styleUrl>#pnt106</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGRI015009</td></tr>
+<tr><td>Istituto</td><td>IST.PROF.INDUSTRIA E ARTIGIANATO L.DA VINCI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MORONI 255,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>95</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6581466,45.6860736,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:108</name>
+<styleUrl>#pnt108</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>PSPS020006</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G. MARCONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA NANTERRE 10,Pesaro,PU,Marche</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>12.8969196,43.8938849,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:109</name>
+<styleUrl>#pnt109</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRC030009</td></tr>
+<tr><td>Istituto</td><td>IST.PROFESS. SERVIZI COMM. TURISTICI E PUBBLICITA' "FRISI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA OTRANTO-CITTADINI,1,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>58</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1307737,45.5155176,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:110</name>
+<styleUrl>#pnt110</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRI01500X</td></tr>
+<tr><td>Istituto</td><td>IST.PROFESSIONALE ONDONTOTECNICI CASATI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PADOVA, 116,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2295692,45.4958569,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:111</name>
+<styleUrl>#pnt111</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS21002B</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO GIORDANO BRUNO</td></tr>
+<tr><td>Indirizzo</td><td>VIA PAPA GIOVANNI XXIII,Cassano d'Adda,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5204981,45.5421635,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:112</name>
+<styleUrl>#pnt112</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD41000V</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.LE E GEOMETRI ACHILLE MAPELLI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PARMENIDE, 18,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>45</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3037156,45.591725,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:113</name>
+<styleUrl>#pnt113</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGTD06000T</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO STATALE SUPERIORE B. BELOTTI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PER AZZANO 5,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6655542,45.6680156,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:114</name>
+<styleUrl>#pnt114</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SRPS050004</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALECORBINO O. M.</td></tr>
+<tr><td>Indirizzo</td><td>VIA R. MARGHERITA,16,Siracusa,SR,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>15.063459,37.032153,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:115</name>
+<styleUrl>#pnt115</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS295009</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO LEGALMENTE RICONOSCIUTO   SACRO CUORE</td></tr>
+<tr><td>Indirizzo</td><td>VIA ROMBON,78,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>99</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2560969,45.4873125,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:116</name>
+<styleUrl>#pnt116</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS013003</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE "DAVID MARIA TUROLDO"</td></tr>
+<tr><td>Indirizzo</td><td>VIA RONCO 11,Zogno,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - IST TEC COMMERCIALE E PER GEOMETRI - ISTITUTO MAGISTRALE - ISTITUTO TECNICO INDUSTRIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>57</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.67345,45.7979153,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:117</name>
+<styleUrl>#pnt117</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>PAPS00901V</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALECOLLETTO G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA S. ALDISIO,Corleone,PA,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>13.3018642,37.8167963,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:118</name>
+<styleUrl>#pnt118</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NUTF00201D</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO STATALE</td></tr>
+<tr><td>Indirizzo</td><td>VIA S. ANTONIO,Tonara,NU,Sardegna</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>58</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1719256,40.025374,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:120</name>
+<styleUrl>#pnt120</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COTF00201X</td></tr>
+<tr><td>Istituto</td><td>I.T. INDUSTRIALE "MAGISTRI CUMACINI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA S.CATERINA DA SIENA 1,Mariano Comense,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1786429,45.6868399,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:121</name>
+<styleUrl>#pnt121</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COIS00200B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO JEAN MONNET</td></tr>
+<tr><td>Indirizzo</td><td>VIA S.CATERINA DA SIENA 3,Mariano Comense,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1786429,45.6868399,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:122</name>
+<styleUrl>#pnt122</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04700R</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE ENRICO DE NICOLA</td></tr>
+<tr><td>Indirizzo</td><td>VIA SAINT DENIS 200,Sesto San Giovanni,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI - LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.223084,45.539786,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:124</name>
+<styleUrl>#pnt124</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD500005</td></tr>
+<tr><td>Istituto</td><td>SCHIAPARELLI-GRAMSCI  (ex Mattioli)</td></tr>
+<tr><td>Indirizzo</td><td>VIA SETTEMBRINI 4,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2042868,45.4801529,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:125</name>
+<styleUrl>#pnt125</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CSTF013011</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.IND. "FERMI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA STAZIONE,Fuscaldo,CS,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>75</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>16.0118961,39.4097628,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:127</name>
+<styleUrl>#pnt127</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SOTL00401E</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO QUADRIO M.</td></tr>
+<tr><td>Indirizzo</td><td>VIA TIRANO 45,Sondrio,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.8753671,46.164007,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:128</name>
+<styleUrl>#pnt128</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SOTF01000L</td></tr>
+<tr><td>Istituto</td><td>IST.TEC. INDUSTRIALE MATTEI ENEA</td></tr>
+<tr><td>Indirizzo</td><td>VIA TIRANO 53,Sondrio,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.8755275,46.162906,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:129</name>
+<styleUrl>#pnt129</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SOPC01000B</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO  PIAZZI</td></tr>
+<tr><td>Indirizzo</td><td>VIA TONALE 1,Sondrio,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.8698708,46.165838,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:131</name>
+<styleUrl>#pnt131</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGSL01000T</td></tr>
+<tr><td>Istituto</td><td>LICEO ARTISTICO STATALE GIACOMO E PIO MANZU'</td></tr>
+<tr><td>Indirizzo</td><td>VIA TORQUATO TASSO 18,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>50</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6740121,45.6970527,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:132</name>
+<styleUrl>#pnt132</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPL315004</td></tr>
+<tr><td>Istituto</td><td>LICEO LINGUISTICO LEG.RICON. CANDIA</td></tr>
+<tr><td>Indirizzo</td><td>VIA TORRICELLI 37,Seregno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE - LICEO LINGUISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>67</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.202615,45.654642,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:133</name>
+<styleUrl>#pnt133</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RCIS012007</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE PITAGORA</td></tr>
+<tr><td>Indirizzo</td><td>VIA TURATI,Siderno,RC,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>16.2983085,38.2693662,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:134</name>
+<styleUrl>#pnt134</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RMPS335003</td></tr>
+<tr><td>Istituto</td><td>IST.LEGAL.RICON.  VILLA SORA</td></tr>
+<tr><td>Indirizzo</td><td>VIA TUSCOLANA,5,Frascati,RM,Lazio</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>53</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>12.5838584,41.8430352,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:135</name>
+<styleUrl>#pnt135</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>PRTF03000B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO INDUSTRIALE A. BERENINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA V.ALFIERI N.4,Fidenza,PR,Emilia-Romagna</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>57</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>10.0539455,44.8599728,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:136</name>
+<styleUrl>#pnt136</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD330007</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PRIMO LEVI</td></tr>
+<tr><td>Indirizzo</td><td>VIA VARALLI 20,Bollate,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>79</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1258895,45.5394608,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:138</name>
+<styleUrl>#pnt138</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGTF05000D</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO G. MARCONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA VERDI 60,Dalmine,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>57</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5927,45.650695,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:141</name>
+<styleUrl>#pnt141</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPSX00336</td></tr>
+<tr><td>Istituto</td><td>DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>VIA ZANOVELLO 1,Treviglio,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>CLASSICO/SCIENTIFICO - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>44</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.592133,45.52455,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:143</name>
+<styleUrl>#pnt143</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CSPS05000R</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO E. MATTEI</td></tr>
+<tr><td>Indirizzo</td><td>VIALE DELLE QUERCE,Castrovillari,CS,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>61</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>16.1997517,39.8154269,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:146</name>
+<styleUrl>#pnt146</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS36500A</td></tr>
+<tr><td>Istituto</td><td>COLLEGIO DELLA GUASTALLA</td></tr>
+<tr><td>Indirizzo</td><td>VIALE LOMBARDIA,180,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>43</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2470767,45.5740262,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:147</name>
+<styleUrl>#pnt147</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPQ035005</td></tr>
+<tr><td>Istituto</td><td>LICEO MADDALENA DI CANOSSA</td></tr>
+<tr><td>Indirizzo</td><td>VIALE PETRARCA 4,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>46</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2759985,45.5886163,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:148</name>
+<styleUrl>#pnt148</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CTTF01000G</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.INDUSTRIALE ARCHIMEDE</td></tr>
+<tr><td>Indirizzo</td><td>VIALE R. MARGHERITA 22,Catania,CT,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>15.0800043,37.5124753,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:149</name>
+<styleUrl>#pnt149</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COTE07500T</td></tr>
+<tr><td>Istituto</td><td>IST.TECNICO ATTIVITA' SOCIALI DANTE ALIGHIERI</td></tr>
+<tr><td>Indirizzo</td><td>VIALE VARESE 25,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2009</td></tr>
+<tr><td>CdL</td><td>INFERMIERISTICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0810562,45.8067368,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

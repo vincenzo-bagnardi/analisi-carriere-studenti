@@ -1,0 +1,84 @@
+<?xml version='1.0'?>                         
+<kml xmlns='http://www.opengis.net/kml/2.2'>  
+	<Document>                                   
+		<LookAt>                                   
+		<longitude>9.5</longitude>                 
+		<latitude>45.5</latitude>                  
+		<heading>0</heading>                       
+		<tilt>30</tilt>                            
+		<range>200000</range>                      
+	</LookAt>                                    
+		<NetworkLink>                              
+			<name>FISIOTERAPIA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>FISIOTERAPIA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>IGIENE DENTALE</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>IGIENE DENTALE/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>INFERMIERISTICA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>INFERMIERISTICA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>MEDICINA E CHIRURGIA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>MEDICINA E CHIRURGIA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>ODONTOIATRIA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>ODONTOIATRIA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>OSTETRICIA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>OSTETRICIA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>TECNICHE DI LABOR BIOMEDICO</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>TECNICHE DI LABOR BIOMEDICO/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>TECNICHE DI RADIOLOGIA MEDICA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>TECNICHE DI RADIOLOGIA MEDICA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>TERAPIA DELLA NEURO</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>TERAPIA DELLA NEURO/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+	</Document>                                   
+</kml>                                         

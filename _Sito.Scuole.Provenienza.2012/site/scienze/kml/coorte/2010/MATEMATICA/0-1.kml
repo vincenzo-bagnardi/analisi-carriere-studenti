@@ -1,0 +1,2198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt1">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt2">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt5">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt6">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt7">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt8">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt9">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt11">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt12">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt14">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt16">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt17">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt18">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt20">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt21">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt23">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt24">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt26">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt27">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt29">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt30">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt31">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt32">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt33">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt34">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt36">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt38">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt39">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt40">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt41">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt42">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt43">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt45">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt46">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt47">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt48">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt50">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt51">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt52">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt53">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt54">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt55">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt56">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt57">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt58">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt59">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt60">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt61">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt62">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt63">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt64">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt65">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt66">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt67">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt68">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt70">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:1</name>
+<styleUrl>#pnt1</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VCPSX00568</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO LICEO SCIENTIFICO AVOGADRO</td></tr>
+<tr><td>Indirizzo</td><td>C.SO PALESTRO, 29,Vercelli,VC,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>19</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.4293764,45.3230456,3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:2</name>
+<styleUrl>#pnt2</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC075007</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO MONTINI G. B.</td></tr>
+<tr><td>Indirizzo</td><td>C.SO PORTA ROMANA 105,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1989027,45.4541959,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:5</name>
+<styleUrl>#pnt5</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS06500Q</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO PARITARIO E. FERMI</td></tr>
+<tr><td>Indirizzo</td><td>V.ALFIERI 12,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1761934,45.4789198,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:6</name>
+<styleUrl>#pnt6</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS86500P</td></tr>
+<tr><td>Istituto</td><td>SCUOLA EUROPA</td></tr>
+<tr><td>Indirizzo</td><td>V.LE L.MAJNO 39,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2051065,45.472331,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:7</name>
+<styleUrl>#pnt7</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS02600Q</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE CREMONA</td></tr>
+<tr><td>Indirizzo</td><td>V.LE MARCHE 71/73,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1914985,45.4962388,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:8</name>
+<styleUrl>#pnt8</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF11500N</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO BREDA - SALESIANI DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>V.LE MATTEOTTI 425,Sesto San Giovanni,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.230862,45.543481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:9</name>
+<styleUrl>#pnt9</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>PAPC58500L</td></tr>
+<tr><td>Istituto</td><td>CENTRO EDUCATIVO IGNAZIANO EX GONZAGA</td></tr>
+<tr><td>Indirizzo</td><td>V.PIERSANTI MATTARELLA 38/42,Palermo,PA,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>23</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>13.906737,37.856949,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:11</name>
+<styleUrl>#pnt11</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD020002</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI ARGENTIA</td></tr>
+<tr><td>Indirizzo</td><td>VIA ADDA,Gorgonzola,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>8</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4063953,45.5397255,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:12</name>
+<styleUrl>#pnt12</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS05000B</td></tr>
+<tr><td>Istituto</td><td>LICEO LORENZO MASCHERONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ALBERICO DA ROSCIATE 21/A,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6808589,45.7026992,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:14</name>
+<styleUrl>#pnt14</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RGIS00200C</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE  " G. CURCIO "</td></tr>
+<tr><td>Indirizzo</td><td>VIA ANDREOLI 2,Ispica,RG,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>31</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>14.904393,36.786375,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:16</name>
+<styleUrl>#pnt16</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAPC040006</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO STEFANO MARIA LEGNANI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ANTICI 1,Saronno,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>31</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0373079,45.6247603,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:17</name>
+<styleUrl>#pnt17</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NOTF03000B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO STATALE OMAR</td></tr>
+<tr><td>Indirizzo</td><td>VIA BALUARDO LAMARMORA,12,Novara,NO,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.6273422,45.4443274,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:18</name>
+<styleUrl>#pnt18</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGTD01201D</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI FANTONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BARBARIGO 27,Clusone,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.96421,45.8903899,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:20</name>
+<styleUrl>#pnt20</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRI09000N</td></tr>
+<tr><td>Istituto</td><td>IPSIA PUECHER G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA BERSAGLIO 56,Rho,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.049828,45.535876,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:21</name>
+<styleUrl>#pnt21</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGTA020001</td></tr>
+<tr><td>Istituto</td><td>IST.TECNICO AGRARIO STATALE</td></tr>
+<tr><td>Indirizzo</td><td>VIA BORGO PALAZZO,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO AGRARIO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.7038165,45.6907635,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:23</name>
+<styleUrl>#pnt23</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MISD02000L</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO D'ARTE MODIGLIANI</td></tr>
+<tr><td>Indirizzo</td><td>VIA CAIMI 5,Giussano,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO D'ARTE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>40</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2123094,45.6961752,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:24</name>
+<styleUrl>#pnt24</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCSL01000A</td></tr>
+<tr><td>Istituto</td><td>LICEO ARTISTICO MEDARDO ROSSO</td></tr>
+<tr><td>Indirizzo</td><td>VIA CALATAFIMI 5,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3925186,45.863034,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:26</name>
+<styleUrl>#pnt26</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAPC59500P</td></tr>
+<tr><td>Istituto</td><td>LICEO SACRO MONTE</td></tr>
+<tr><td>Indirizzo</td><td>VIA CRISPI 24,Varese,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.8157777,45.8238593,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:27</name>
+<styleUrl>#pnt27</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAPS012016</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO E. STEIN</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI GELSOMINI 16,Gavirate,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.7041609,45.8501701,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:29</name>
+<styleUrl>#pnt29</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCTF01001L</td></tr>
+<tr><td>Istituto</td><td>I.T.I.S.  A.BADONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI LODOVICHI 2,Merate,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.425373,45.6941429,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:30</name>
+<styleUrl>#pnt30</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCIS001009</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE FRANCESCO VIGANO'</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI LODOVICHI 2,Merate,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>31</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.425373,45.6941429,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:31</name>
+<styleUrl>#pnt31</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS16000D</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE MARCONI (GIA' IX)</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI NARCISI 5,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>47</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1285968,45.450027,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:32</name>
+<styleUrl>#pnt32</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS02401X</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO L. FEDERICI</td></tr>
+<tr><td>Indirizzo</td><td>VIA DELL'ALBAROTTO snc,Trescore Balneario,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.8408098,45.6966331,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:33</name>
+<styleUrl>#pnt33</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04300D</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE F. BESTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DON G.CALABRIA 16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2428923,45.4972481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:34</name>
+<styleUrl>#pnt34</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPM02000L</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO GIOVANNI FALCONE</td></tr>
+<tr><td>Indirizzo</td><td>VIA DUNANT, 1,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6446298,45.6925853,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:36</name>
+<styleUrl>#pnt36</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF14000A</td></tr>
+<tr><td>Istituto</td><td>ITIS MARIE CURIE</td></tr>
+<tr><td>Indirizzo</td><td>VIA F.LLI ZOIA 130,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.186516,45.4654542,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:38</name>
+<styleUrl>#pnt38</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC275001</td></tr>
+<tr><td>Istituto</td><td>LICEO DON GNOCCHI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GAGGIOLI 2,Carate Brianza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.229926,45.668847,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:39</name>
+<styleUrl>#pnt39</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF10000X</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE GALVANI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GATTI 14,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1912456,45.5067302,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:40</name>
+<styleUrl>#pnt40</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF270003</td></tr>
+<tr><td>Istituto</td><td>I.T.I.S. -  LICEO SCIENTIFICO CARTESIO</td></tr>
+<tr><td>Indirizzo</td><td>VIA GORKY 100,Cinisello Balsamo,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.218414,45.543022,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:41</name>
+<styleUrl>#pnt41</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04100T</td></tr>
+<tr><td>Istituto</td><td>I.I.S. GADDA</td></tr>
+<tr><td>Indirizzo</td><td>VIA L. DA VINCI 18,Paderno Dugnano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1336169,45.578152,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:42</name>
+<styleUrl>#pnt42</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BSTF018017</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO STATALE  MARZOLI C.</td></tr>
+<tr><td>Indirizzo</td><td>VIA LEVADELLO,1,Palazzolo Sull'Oglio,BS,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.89156,45.59801,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:43</name>
+<styleUrl>#pnt43</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF03801E</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO INDUSTRIALE STATALELAGRANGE G. L.</td></tr>
+<tr><td>Indirizzo</td><td>VIA LITTA MODIGNANI, 65,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1597494,45.5227782,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:45</name>
+<styleUrl>#pnt45</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAPS040009</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO "VITTORIO SERENI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA LUGANO 24,Luino,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.7511569,46.00634,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:46</name>
+<styleUrl>#pnt46</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS15000V</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO P. BOTTONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAC MAHON 96/98,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1569643,45.4947505,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:47</name>
+<styleUrl>#pnt47</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VBPS02000P</td></tr>
+<tr><td>Istituto</td><td>LICEO BONAVENTURA CAVALIERI</td></tr>
+<tr><td>Indirizzo</td><td>Via Madonna di Campagna 18,Verbania,VB,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.5488419,45.9307329,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:48</name>
+<styleUrl>#pnt48</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RETD007017</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO STATALE C. LEVI-SCARUFFI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAKALLE',18,Reggio nell'Emilia,RE,Emilia-Romagna</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>10.6376138,44.7052559,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:50</name>
+<styleUrl>#pnt50</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS340002</td></tr>
+<tr><td>Istituto</td><td>LICEO G.FALCONE E P. BORSELLINO</td></tr>
+<tr><td>Indirizzo</td><td>VIA MATTEOTTI 31,Arese,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.07626,45.558269,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:51</name>
+<styleUrl>#pnt51</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGTF010003</td></tr>
+<tr><td>Istituto</td><td>IST.TECNICO STATALE PALEOCAPA P. (GIA' II)</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAURO GAVAZZENI 29,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6824211,45.6906401,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:52</name>
+<styleUrl>#pnt52</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SSPS040001</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE   SPANO G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA MONTE GRAPPA,2,Sassari,SS,Sardegna</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.5558744,40.7186811,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:53</name>
+<styleUrl>#pnt53</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC01000C</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO MANZONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ORAZIO 3,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1776581,45.4596241,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:54</name>
+<styleUrl>#pnt54</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BSIS008004</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE  "G. ANTONIETTI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA PAOLO VI 3,Iseo,BS,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>31</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>10.0082338,45.637771,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:55</name>
+<styleUrl>#pnt55</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BSTD110006</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO ASTOLFO LUNARDI - BRESCIA</td></tr>
+<tr><td>Indirizzo</td><td>VIA RICCOBELLI 47,Brescia,BS,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>10.239388,45.5578571,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:56</name>
+<styleUrl>#pnt56</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS04000R</td></tr>
+<tr><td>Istituto</td><td>LICEO GALILEI G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA S. FRANCESCO 63,Caravaggio,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>43</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.643077,45.5005949,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:57</name>
+<styleUrl>#pnt57</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COIS00200B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO JEAN MONNET</td></tr>
+<tr><td>Indirizzo</td><td>VIA S.CATERINA DA SIENA 3,Mariano Comense,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1786429,45.6868399,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:58</name>
+<styleUrl>#pnt58</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAIS00900X</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE  "CARLO ALBERTO DALLA CHIESA"</td></tr>
+<tr><td>Indirizzo</td><td>VIA SAN DONATO 1,Sesto Calende,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO MAGISTRALE - ISTITUTO TECNICO COMMERCIALE - ISTITUTO TECNICO INDUSTRIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.6319582,45.7317006,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:59</name>
+<styleUrl>#pnt59</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SSPS060006</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G. MARCONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA SOLARI 2,Sassari,SS,Sardegna</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.5557229,40.7413417,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:60</name>
+<styleUrl>#pnt60</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD240001</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM. E GEOMETRI G.MAGGIOLINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA SPAGLIARDI 19,Parabiago,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.95175,45.55886,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:61</name>
+<styleUrl>#pnt61</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NOPS010004</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE ANTONELLI A.</td></tr>
+<tr><td>Indirizzo</td><td>VIA TOSCANA,20,Novara,NO,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.6110665,45.4326508,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:62</name>
+<styleUrl>#pnt62</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS25000Q</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO BRAMANTE</td></tr>
+<tr><td>Indirizzo</td><td>VIA TRIESTE 70,Magenta,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.8935256,45.4659038,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:63</name>
+<styleUrl>#pnt63</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD330007</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PRIMO LEVI</td></tr>
+<tr><td>Indirizzo</td><td>VIA VARALLI 20,Bollate,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1258895,45.5394608,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:64</name>
+<styleUrl>#pnt64</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC22500X</td></tr>
+<tr><td>Istituto</td><td>COLLEGIO BALLERINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA VERDI 77,Seregno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>15</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.204223,45.656457,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:65</name>
+<styleUrl>#pnt65</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPM01000E</td></tr>
+<tr><td>Istituto</td><td>LICEO GIOVANNI BERTACCHI</td></tr>
+<tr><td>Indirizzo</td><td>VIA XI FEBBRAIO 6,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3975995,45.8571655,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:66</name>
+<styleUrl>#pnt66</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPSX00336</td></tr>
+<tr><td>Istituto</td><td>DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>VIA ZANOVELLO 1,Treviglio,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>CLASSICO/SCIENTIFICO - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.592133,45.52455,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:67</name>
+<styleUrl>#pnt67</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>PCPM010008</td></tr>
+<tr><td>Istituto</td><td>LICEO GIULIA MOLINO COLOMBINI</td></tr>
+<tr><td>Indirizzo</td><td>VIALE BEVERORA,51,Piacenza,PC,Emilia-Romagna</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6870514,45.0508882,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:68</name>
+<styleUrl>#pnt68</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MTPS01000E</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO DANTE ALIGHIERI</td></tr>
+<tr><td>Indirizzo</td><td>VIALE DELLE NAZIONI UNITE,2,Matera,MT,Basilicata</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>83</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>16.5955494,40.6660948,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:70</name>
+<styleUrl>#pnt70</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS026016</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE L. CREMONA</td></tr>
+<tr><td>Indirizzo</td><td>VIALE MARCHE 73,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MATEMATICA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1914736,45.4962459,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

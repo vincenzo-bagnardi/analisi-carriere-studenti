@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt3">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt9">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt19">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt31">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt35">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt41">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt47">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:3</name>
+<styleUrl>#pnt3</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS01000D</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G. B. GRASSI</td></tr>
+<tr><td>Indirizzo</td><td>L.GO MONTENERO 3,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>SC E TEC GEOLOGICHE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3925799,45.8569028,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:9</name>
+<styleUrl>#pnt9</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF11500N</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO BREDA - SALESIANI DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>V.LE MATTEOTTI 425,Sesto San Giovanni,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>SC E TEC GEOLOGICHE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.230862,45.543481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:19</name>
+<styleUrl>#pnt19</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF120005</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO INDUSTRIALE P.HENSEMBERGER</td></tr>
+<tr><td>Indirizzo</td><td>VIA BERCHET 2,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>41.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>SC E TEC GEOLOGICHE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.219168,45.613687,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:31</name>
+<styleUrl>#pnt31</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITE01000V</td></tr>
+<tr><td>Istituto</td><td>IST.TECNICO ATTIVITA' SOCIALI (GIA' ITF) GIULIO NATTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DON GIOVANNI CALABRIA 16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO PER ATTIVITA' SOCIALI (GIA' ITF)</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>27.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>SC E TEC GEOLOGICHE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2428923,45.4972481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:35</name>
+<styleUrl>#pnt35</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITA02000G</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO AGRARIO L. CASTIGLIONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GARIBALDI 35,Limbiate,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO AGRARIO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>24</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>SC E TEC GEOLOGICHE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1557929,45.6300809,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:41</name>
+<styleUrl>#pnt41</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS15000V</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO P. BOTTONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAC MAHON 96/98,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>15</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>SC E TEC GEOLOGICHE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1569643,45.4947505,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:47</name>
+<styleUrl>#pnt47</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC01000C</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO MANZONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ORAZIO 3,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Scienze Matematiche, Fisiche e Naturali</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>SC E TEC GEOLOGICHE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1776581,45.4596241,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

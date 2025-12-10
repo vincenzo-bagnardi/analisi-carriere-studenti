@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt1">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt3">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt30">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt45">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt49">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt56">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt60">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt65">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt69">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt70">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt75">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt78">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt89">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt102">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt110">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt117">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt119">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt121">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt126">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt136">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt138">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt139">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt151">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt156">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:1</name>
+<styleUrl>#pnt1</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>ALBANIA</td></tr>
+<tr><td>Istituto</td><td></td></tr>
+<tr><td>Indirizzo</td><td>,ALBANIA,,</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>5</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>49</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>20.168331,41.153332,3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:3</name>
+<styleUrl>#pnt3</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CINA REPUBBLICA POPOLARE</td></tr>
+<tr><td>Istituto</td><td></td></tr>
+<tr><td>Indirizzo</td><td>,CINA REPUBBLICA POPOLARE,,</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>7</td></tr>
+<tr><td>Abbandoni facoltà</td><td>3</td></tr>
+<tr><td>% abbandoni facoltà</td><td>42.9</td></tr>
+<tr><td>Mediana crediti</td><td>9</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1758321,45.4695955,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:30</name>
+<styleUrl>#pnt30</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS240005</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO BANFI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ADDA 6,Vimercate,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>56</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.343308,45.595196,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:45</name>
+<styleUrl>#pnt45</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD17000X</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO MARTINO BASSI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BRIANTINA 68,Seregno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO PER IL TURISMO</td></tr>
+<tr><td>Numero immatricolati</td><td>5</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>20</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2129604,45.659626,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:49</name>
+<styleUrl>#pnt49</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04200N</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE IRIS VERSARI</td></tr>
+<tr><td>Indirizzo</td><td>VIA CALABRIA 24,Cesano Maderno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>40</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1745893,45.6637376,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:56</name>
+<styleUrl>#pnt56</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS020004</td></tr>
+<tr><td>Istituto</td><td>M. G. AGNESI</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI LODOVICHI 10,Merate,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>CENTRO TERRITORIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>60</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.425373,45.6941429,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:60</name>
+<styleUrl>#pnt60</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPM06000N</td></tr>
+<tr><td>Istituto</td><td>LICEO CARLO PORTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DELLA GUERRINA 15,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>49</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.300771,45.5872894,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:65</name>
+<styleUrl>#pnt65</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS00600E</td></tr>
+<tr><td>Istituto</td><td>IST.SUPERIORE GANDHI MOHANDAS KARAMCHAND</td></tr>
+<tr><td>Indirizzo</td><td>VIA FOSCOLO 1,Besana In Brianza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>2</td></tr>
+<tr><td>% abbandoni facoltà</td><td>66.7</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.290438,45.7303799,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:69</name>
+<styleUrl>#pnt69</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS10000T</td></tr>
+<tr><td>Istituto</td><td>LICEO ETTORE MAJORANA</td></tr>
+<tr><td>Indirizzo</td><td>VIA G.AGNESI 20,Desio,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.155896,45.600605,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:70</name>
+<styleUrl>#pnt70</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS03900T</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE  BERTRAND RUSSELL</td></tr>
+<tr><td>Indirizzo</td><td>VIA GATTI 16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.49512,45.503103,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:75</name>
+<styleUrl>#pnt75</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF270003</td></tr>
+<tr><td>Istituto</td><td>I.T.I.S. -  LICEO SCIENTIFICO CARTESIO</td></tr>
+<tr><td>Indirizzo</td><td>VIA GORKY 100,Cinisello Balsamo,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>29</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.218414,45.543022,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:78</name>
+<styleUrl>#pnt78</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04100T</td></tr>
+<tr><td>Istituto</td><td>I.I.S. GADDA</td></tr>
+<tr><td>Indirizzo</td><td>VIA L. DA VINCI 18,Paderno Dugnano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>25</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1336169,45.578152,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:89</name>
+<styleUrl>#pnt89</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS15000V</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO P. BOTTONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAC MAHON 96/98,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>22.5</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1569643,45.4947505,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:102</name>
+<styleUrl>#pnt102</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD090008</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.LE E PER GEOMETRI M. BIANCHI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MINERVA 1,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI - ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>6</td></tr>
+<tr><td>Abbandoni facoltà</td><td>2</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>45</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2649099,45.5818162,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:110</name>
+<styleUrl>#pnt110</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD41000V</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.LE E GEOMETRI ACHILLE MAPELLI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PARMENIDE, 18,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>5</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3037156,45.591725,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:117</name>
+<styleUrl>#pnt117</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS02901N</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE MACHIAVELLI N.</td></tr>
+<tr><td>Indirizzo</td><td>VIA RIVOLTANA,93/B LOC. MALASP,Pioltello,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>28</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2984247,45.4759164,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:119</name>
+<styleUrl>#pnt119</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COIS00200B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO JEAN MONNET</td></tr>
+<tr><td>Indirizzo</td><td>VIA S.CATERINA DA SIENA 3,Mariano Comense,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>63</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1786429,45.6868399,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:121</name>
+<styleUrl>#pnt121</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS050002</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE  FRISI P.</td></tr>
+<tr><td>Indirizzo</td><td>VIA SEMPIONE 21,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>38</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2656548,45.5834728,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:126</name>
+<styleUrl>#pnt126</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VATD02000X</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI E.TOSI</td></tr>
+<tr><td>Indirizzo</td><td>VIA STELVIO 173,Busto Arsizio,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>CENTRO TERRITORIALE - ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>7</td></tr>
+<tr><td>Abbandoni facoltà</td><td>3</td></tr>
+<tr><td>% abbandoni facoltà</td><td>42.9</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.8254118,45.6343978,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:136</name>
+<styleUrl>#pnt136</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD330007</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PRIMO LEVI</td></tr>
+<tr><td>Indirizzo</td><td>VIA VARALLI 20,Bollate,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1258895,45.5394608,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:138</name>
+<styleUrl>#pnt138</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS875009</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MARIA MAZZARELLO - DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>VIA VICUNA 1,Cinisello Balsamo,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>25</td></tr>
+<tr><td>Mediana crediti</td><td>18</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.218628,45.549815,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:139</name>
+<styleUrl>#pnt139</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS00201G</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO VITTORIO BACHELET</td></tr>
+<tr><td>Indirizzo</td><td>VIA VITTORIO BACHELET 2,Oggiono,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>38</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3455127,45.7900132,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:151</name>
+<styleUrl>#pnt151</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS026016</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE L. CREMONA</td></tr>
+<tr><td>Indirizzo</td><td>VIALE MARCHE 73,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>2</td></tr>
+<tr><td>% abbandoni facoltà</td><td>66.7</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1914736,45.4962459,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:156</name>
+<styleUrl>#pnt156</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD10000N</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI N. MORESCHI</td></tr>
+<tr><td>Indirizzo</td><td>VIALE S.MICHELE DEL CARSO 25,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Economia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>ECON DELLE BANCHE DELLE ASS</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1639275,45.4627908,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

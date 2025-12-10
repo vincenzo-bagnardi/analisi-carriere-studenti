@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt4">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt9">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt10">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt11">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt20">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt30">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt34">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt41">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:4</name>
+<styleUrl>#pnt4</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS01000D</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G. B. GRASSI</td></tr>
+<tr><td>Indirizzo</td><td>L.GO MONTENERO 3,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>7</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>52</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3925799,45.8569028,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:9</name>
+<styleUrl>#pnt9</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC020003</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO B. ZUCCHI</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA TRENTO TRIESTE 6,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>6</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51.5</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2739701,45.5836903,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:10</name>
+<styleUrl>#pnt10</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF11500N</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO BREDA - SALESIANI DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>V.LE MATTEOTTI 425,Sesto San Giovanni,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.230862,45.543481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:11</name>
+<styleUrl>#pnt11</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS240005</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO BANFI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ADDA 6,Vimercate,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>7</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.343308,45.595196,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:20</name>
+<styleUrl>#pnt20</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COPC020007</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO A. VOLTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA CESARE CANTU' 57,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0852962,45.8067888,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:30</name>
+<styleUrl>#pnt30</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC275001</td></tr>
+<tr><td>Istituto</td><td>LICEO DON GNOCCHI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GAGGIOLI 2,Carate Brianza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>6</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>16.7</td></tr>
+<tr><td>Mediana crediti</td><td>50</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.229926,45.668847,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:34</name>
+<styleUrl>#pnt34</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS00701R</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO FEDERIGO ENRIQUES</td></tr>
+<tr><td>Indirizzo</td><td>VIA MARTIRI DELLA LIBERTA' 124,Lissone,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>6</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>50.5</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2442406,45.6231634,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:41</name>
+<styleUrl>#pnt41</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS050002</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE  FRISI P.</td></tr>
+<tr><td>Indirizzo</td><td>VIA SEMPIONE 21,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>6</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>16.7</td></tr>
+<tr><td>Mediana crediti</td><td>50</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>MEDICINA E CHIRURGIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2656548,45.5834728,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt3">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt14">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:3</name>
+<styleUrl>#pnt3</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS01000D</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G. B. GRASSI</td></tr>
+<tr><td>Indirizzo</td><td>L.GO MONTENERO 3,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>44</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>ODONTOIATRIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3925799,45.8569028,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:14</name>
+<styleUrl>#pnt14</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS050002</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE  FRISI P.</td></tr>
+<tr><td>Indirizzo</td><td>VIA SEMPIONE 21,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>53</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>ODONTOIATRIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2656548,45.5834728,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

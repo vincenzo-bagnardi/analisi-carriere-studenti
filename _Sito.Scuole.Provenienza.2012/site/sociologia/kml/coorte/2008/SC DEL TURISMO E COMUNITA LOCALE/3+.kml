@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt15">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt20">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt27">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt28">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt30">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt32">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt33">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt35">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt39">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt41">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt42">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt47">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt59">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt65">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt85">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt86">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:15</name>
+<styleUrl>#pnt15</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD020002</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI ARGENTIA</td></tr>
+<tr><td>Indirizzo</td><td>VIA ADDA,Gorgonzola,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4063953,45.5397255,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:20</name>
+<styleUrl>#pnt20</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCTD02000X</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI G.PARINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BADONI 2,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4007068,45.8516735,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:27</name>
+<styleUrl>#pnt27</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITN02000X</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO PER IL TURISMO PIER PAOLO PASOLINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BISTOLFI,15,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO PER IL TURISMO</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>22.5</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.245134,45.4732298,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:28</name>
+<styleUrl>#pnt28</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD49000Q</td></tr>
+<tr><td>Istituto</td><td>ITC E PACLE PASCAL B. - E. MORANTE</td></tr>
+<tr><td>Indirizzo</td><td>VIA BONAPARTE 2/BIS,Limbiate,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>36</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.134218,45.615592,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:30</name>
+<styleUrl>#pnt30</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD430004</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI PRIMO LEVI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BRIANTINA 68,Seregno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2129604,45.659626,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:32</name>
+<styleUrl>#pnt32</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRH010009</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PROFESSIONALE STATALE  VESPUCCI A.</td></tr>
+<tr><td>Indirizzo</td><td>VIA CARLO VALVASSORI PERONI,8,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2365731,45.4736064,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:33</name>
+<styleUrl>#pnt33</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS024004</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE "VIRGILIO FLORIANI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA CREMAGNANI 18,Vimercate,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - IST PROF PER I SERVIZI COMMERCIALI E TURISTICI</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>34.5</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.363191,45.6135329,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:35</name>
+<styleUrl>#pnt35</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCTD05000Q</td></tr>
+<tr><td>Istituto</td><td>I.I.S.S. ALESSANDRO GREPPI</td></tr>
+<tr><td>Indirizzo</td><td>VIA DEI MILLE 27,Monticello Brianza,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>5</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.305032,45.703322,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:39</name>
+<styleUrl>#pnt39</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04300D</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE F. BESTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DON G.CALABRIA 16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>25.5</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2428923,45.4972481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:41</name>
+<styleUrl>#pnt41</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPM02000L</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO GIOVANNI FALCONE</td></tr>
+<tr><td>Indirizzo</td><td>VIA DUNANT, 1,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6446298,45.6925853,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:42</name>
+<styleUrl>#pnt42</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS00600E</td></tr>
+<tr><td>Istituto</td><td>IST.SUPERIORE GANDHI MOHANDAS KARAMCHAND</td></tr>
+<tr><td>Indirizzo</td><td>VIA FOSCOLO 1,Besana In Brianza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>57</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.290438,45.7303799,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:47</name>
+<styleUrl>#pnt47</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPM08000V</td></tr>
+<tr><td>Istituto</td><td>LICEO PARINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GRAMSCI 17,Seregno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>57</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.207806,45.636916,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:59</name>
+<styleUrl>#pnt59</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRH038016</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PROF. SERV. ALBERGHIERI E RISTORAZIONEL. MODIGNANI</td></tr>
+<tr><td>Indirizzo</td><td>VIA LITTAMODIGNANI, 65,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>25</td></tr>
+<tr><td>Mediana crediti</td><td>39</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1597494,45.5227782,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:65</name>
+<styleUrl>#pnt65</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD400008</td></tr>
+<tr><td>Istituto</td><td>ITSOS MARIE CURIE</td></tr>
+<tr><td>Indirizzo</td><td>VIA MASACCIO 4,Cernusco Sul Naviglio,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3122002,45.5248299,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:85</name>
+<styleUrl>#pnt85</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SOPM01000G</td></tr>
+<tr><td>Istituto</td><td>LICEO LENA PERPENTI</td></tr>
+<tr><td>Indirizzo</td><td>VIA TONALE,Sondrio,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.8732471,46.166058,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:86</name>
+<styleUrl>#pnt86</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VARC030007</td></tr>
+<tr><td>Istituto</td><td>IST.PROFESS.SERVIZI COMM.TURISTICI E PUBBLICITA' P.VERRI</td></tr>
+<tr><td>Indirizzo</td><td>VIA TORINO 1,Busto Arsizio,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>21</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.869252,45.614795,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

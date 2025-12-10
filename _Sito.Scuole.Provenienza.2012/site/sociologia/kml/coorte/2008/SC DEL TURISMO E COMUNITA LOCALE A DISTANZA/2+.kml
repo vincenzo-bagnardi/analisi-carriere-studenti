@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt27">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt36">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt41">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt50">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:27</name>
+<styleUrl>#pnt27</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITN02000X</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO PER IL TURISMO PIER PAOLO PASOLINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BISTOLFI,15,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO PER IL TURISMO</td></tr>
+<tr><td>Numero immatricolati</td><td>4</td></tr>
+<tr><td>Abbandoni facoltà</td><td>2</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>27</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE A DISTANZA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.245134,45.4732298,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:36</name>
+<styleUrl>#pnt36</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPM06000N</td></tr>
+<tr><td>Istituto</td><td>LICEO CARLO PORTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DELLA GUERRINA 15,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>45</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE A DISTANZA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.300771,45.5872894,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:41</name>
+<styleUrl>#pnt41</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITE01000V</td></tr>
+<tr><td>Istituto</td><td>IST.TECNICO ATTIVITA' SOCIALI (GIA' ITF) GIULIO NATTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DON GIOVANNI CALABRIA 16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO PER ATTIVITA' SOCIALI (GIA' ITF)</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>25.5</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE A DISTANZA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2428923,45.4972481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:50</name>
+<styleUrl>#pnt50</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRC060005</td></tr>
+<tr><td>Istituto</td><td>IST.PROF.SERVIZI COMM.TURISTICI E PUBBLICITA' A. OLIVETTI</td></tr>
+<tr><td>Indirizzo</td><td>VIA LECCO 12,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>39</td></tr>
+<tr><td>Facoltà</td><td>Sociologia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>SC DEL TURISMO E COMUNITA LOCALE A DISTANZA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2824696,45.5861154,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt5">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt12">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt15">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt21">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt24">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/rosso.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:5</name>
+<styleUrl>#pnt5</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS240005</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO BANFI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ADDA 6,Vimercate,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>61.6</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>OSTETRICIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.343308,45.595196,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:12</name>
+<styleUrl>#pnt12</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPM06000N</td></tr>
+<tr><td>Istituto</td><td>LICEO CARLO PORTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DELLA GUERRINA 15,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>59.3</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>OSTETRICIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.300771,45.5872894,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:15</name>
+<styleUrl>#pnt15</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC275001</td></tr>
+<tr><td>Istituto</td><td>LICEO DON GNOCCHI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GAGGIOLI 2,Carate Brianza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>64.65</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>OSTETRICIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.229926,45.668847,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:21</name>
+<styleUrl>#pnt21</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS030006</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE  AMALDI E.</td></tr>
+<tr><td>Indirizzo</td><td>VIA LOCATELLI 16,Alzano Lombardo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>62.65</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>OSTETRICIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.7284551,45.7323771,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:24</name>
+<styleUrl>#pnt24</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS21002B</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO GIORDANO BRUNO</td></tr>
+<tr><td>Indirizzo</td><td>VIA PAPA GIOVANNI XXIII,Cassano d'Adda,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>55.9</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2008</td></tr>
+<tr><td>CdL</td><td>OSTETRICIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5204981,45.5421635,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

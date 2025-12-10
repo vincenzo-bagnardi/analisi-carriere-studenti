@@ -1,0 +1,21 @@
+TITLE;
+FOOTNOTE;
+FOOTNOTE1 j=left height=10pt "Nota metodologica.";
+FOOTNOTE2 j=left height=10pt "Poiché il punto di vista in questa sezione è quello della Facoltà, sono considerate in questa tabella solo gli abbandoni al primo anno dei singoli CdL che sono allo stesso tempo abbandoni della Facoltà";
+FOOTNOTE2 j=left height=10pt "Per ogni anno accademico (a.a.), alla data di chiusura delle iscrizioni, viene individuata la coorte t di immatricolati alla Facoltà. Essa è intesa come l’insieme degli studenti che, nell’a.a. t / t+1 di riferimento, si iscrive per la prima volta al primo anno di un CdL Specialistica della Facoltà . Nel grafico è riportato il numero assoluto degli immatricolati individuati per ogni coorte t. Gli studenti appartenenti alla coorte t vengono seguiti fino al conseguimento del titolo o all’abbandono. La coorte relativa alla Facoltà viene definita ‘chiusa’, in quanto non vengono aggiunti gli studenti in entrata provenienti da altri Atenei che si iscrivono direttamente agli anni di corso superiori al primo, o studenti provenienti da altre Facoltà dell’Ateneo che si iscrivono al primo anno di corso.";
+FOOTNOTE3 j=left height=10pt "# Alto: ³54/60, ³90/100; Basso: <54/60, <90/100.";
+
+ods html
+body = '04.Abbandoni.html' style=Analysis
+path = "&luogo.AA_MONITORAGGIO\Monitoraggio&max_dati_plus_uno.\_SitoInternet\&tipo_di_laurea.\&facol01" (url=none);
+ODS NOPROCTITLE;/*toglie i titoli con PROC MEANS bla bla bla*/
+
+inserire nel titolo:
+height=15pt 
+
+ods html close;
+
+
+
+goptions device=jpeg 
+

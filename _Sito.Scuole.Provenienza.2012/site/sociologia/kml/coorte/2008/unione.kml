@@ -1,0 +1,52 @@
+<?xml version='1.0'?>                         
+<kml xmlns='http://www.opengis.net/kml/2.2'>  
+	<Document>                                   
+		<LookAt>                                   
+		<longitude>9.5</longitude>                 
+		<latitude>45.5</latitude>                  
+		<heading>0</heading>                       
+		<tilt>30</tilt>                            
+		<range>200000</range>                      
+	</LookAt>                                    
+		<NetworkLink>                              
+			<name>SC DEL TURISMO E COMUNITA LOCALE</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>SC DEL TURISMO E COMUNITA LOCALE/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>SC DEL TURISMO E COMUNITA LOCALE A DISTANZA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>SC DEL TURISMO E COMUNITA LOCALE A DISTANZA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>SC ORGANIZZAZIONE</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>SC ORGANIZZAZIONE/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>SERVIZIO SOCIALE</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>SERVIZIO SOCIALE/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>SOCIOLOGIA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>SOCIOLOGIA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+	</Document>                                   
+</kml>                                         

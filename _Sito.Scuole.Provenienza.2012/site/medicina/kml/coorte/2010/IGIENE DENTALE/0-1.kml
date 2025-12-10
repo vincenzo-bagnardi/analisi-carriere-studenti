@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt1">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt2">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt3">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt4">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt5">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt6">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt7">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt8">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt10">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt11">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt12">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt13">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt14">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt15">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt16">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt17">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt18">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt19">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../../system/kmlmarker/verde.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:1</name>
+<styleUrl>#pnt1</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCRI01500T</td></tr>
+<tr><td>Istituto</td><td>IST.PROF.INDUSTRIA E ARTIGIANATO A. VOLTA</td></tr>
+<tr><td>Indirizzo</td><td>C.SO PROMESSI SPOSI 100,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>54</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4082973,45.8579286,3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:2</name>
+<styleUrl>#pnt2</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC020003</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO B. ZUCCHI</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA TRENTO TRIESTE 6,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>65</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2739701,45.5836903,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:3</name>
+<styleUrl>#pnt3</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD08500R</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO E. DE AMICIS</td></tr>
+<tr><td>Indirizzo</td><td>V. LAMARMORA 34,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>51</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5491151,45.6003088,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:4</name>
+<styleUrl>#pnt4</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF11500N</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO BREDA - SALESIANI DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>V.LE MATTEOTTI 425,Sesto San Giovanni,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>65</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.230862,45.543481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:5</name>
+<styleUrl>#pnt5</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS240005</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO BANFI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ADDA 6,Vimercate,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>63</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.343308,45.595196,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:6</name>
+<styleUrl>#pnt6</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS05000B</td></tr>
+<tr><td>Istituto</td><td>LICEO LORENZO MASCHERONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA ALBERICO DA ROSCIATE 21/A,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>63</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6808589,45.7026992,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:7</name>
+<styleUrl>#pnt7</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COPC020007</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO A. VOLTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA CESARE CANTU' 57,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>62</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0852962,45.8067888,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:8</name>
+<styleUrl>#pnt8</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPM02000L</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO GIOVANNI FALCONE</td></tr>
+<tr><td>Indirizzo</td><td>VIA DUNANT, 1,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>63</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6446298,45.6925853,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:10</name>
+<styleUrl>#pnt10</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COTD055005</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PARITARIO COLLEGIO GALLIO</td></tr>
+<tr><td>Indirizzo</td><td>VIA GALLIO 1,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>63</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0767823,45.8102912,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:11</name>
+<styleUrl>#pnt11</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VATD05000Q</td></tr>
+<tr><td>Istituto</td><td>I.T.P.A. E. MONTALE</td></tr>
+<tr><td>Indirizzo</td><td>VIA GRAMSCI 1,Tradate,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>65</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.931887,45.685812,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:12</name>
+<styleUrl>#pnt12</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCIS003001</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE   "MARCO POLO"</td></tr>
+<tr><td>Indirizzo</td><td>VIA LA MADONETA 3,Colico,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>61</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.38657,46.13642,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:13</name>
+<styleUrl>#pnt13</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRI13000V</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PROFESSIONALE INDUSTRIA E ARTIGIANATO MARELLI</td></tr>
+<tr><td>Indirizzo</td><td>VIA LIVIGNO 11,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>65</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.178159,45.5013567,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:14</name>
+<styleUrl>#pnt14</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS01400D</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE E.ALESSANDRINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA LUIGI EINAUDI 3,Abbiategrasso,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI - ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>48</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.90949,45.394939,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:15</name>
+<styleUrl>#pnt15</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS00701R</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO FEDERIGO ENRIQUES</td></tr>
+<tr><td>Indirizzo</td><td>VIA MARTIRI DELLA LIBERTA' 124,Lissone,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>58</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2442406,45.6231634,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:16</name>
+<styleUrl>#pnt16</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD41000V</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.LE E GEOMETRI ACHILLE MAPELLI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PARMENIDE, 18,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>62</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3037156,45.591725,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:17</name>
+<styleUrl>#pnt17</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>SOTD05000R</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO STATALE SARACENO P.</td></tr>
+<tr><td>Indirizzo</td><td>VIA PER S. MARCO 3,Morbegno,SO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>52</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5660745,46.1355055,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:18</name>
+<styleUrl>#pnt18</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04700R</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE ENRICO DE NICOLA</td></tr>
+<tr><td>Indirizzo</td><td>VIA SAINT DENIS 200,Sesto San Giovanni,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI - LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>63</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.223084,45.539786,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:19</name>
+<styleUrl>#pnt19</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS00900B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO "OSCAR ARNULFO ROMERO"</td></tr>
+<tr><td>Indirizzo</td><td>VIALE ALDO MORO 51,Albino,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI - ISTITUTO MAGISTRALE - ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>1</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>46</td></tr>
+<tr><td>Facoltà</td><td>Medicina e Chirurgia</td></tr>
+<tr><td>Anno</td><td>2010</td></tr>
+<tr><td>CdL</td><td>IGIENE DENTALE</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.7956768,45.7654074,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

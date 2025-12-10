@@ -1,0 +1,44 @@
+<?xml version='1.0'?>                         
+<kml xmlns='http://www.opengis.net/kml/2.2'>  
+	<Document>                                   
+		<LookAt>                                   
+		<longitude>9.5</longitude>                 
+		<latitude>45.5</latitude>                  
+		<heading>0</heading>                       
+		<tilt>30</tilt>                            
+		<range>200000</range>                      
+	</LookAt>                                    
+		<NetworkLink>                              
+			<name>0-2 studenti</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>0-2.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>3-6 studenti</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>3-6.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>7+ studenti</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>7+.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>densità</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>kde.kmz</href>
+			</Link>                                  
+		</NetworkLink>                             
+	</Document>                                   
+</kml>                                         

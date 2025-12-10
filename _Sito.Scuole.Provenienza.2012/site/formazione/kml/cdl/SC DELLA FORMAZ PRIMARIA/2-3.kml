@@ -1,0 +1,2939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Camera>
+<longitude>9.47</longitude>
+<latitude>45.46</latitude>
+<altitude>250000</altitude>
+<altitudeMode>absolute</altitudeMode>
+<tilt>0</tilt>
+</Camera>
+<visibility>0</visibility>
+<open>1</open>
+<Style id="pnt11">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt15">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt19">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt25">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt28">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt30">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt32">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt33">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt37">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt47">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt57">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt58">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt62">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt63">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt64">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt72">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt83">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt84">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt86">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt92">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt95">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt96">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt98">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt102">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt121">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt132">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt160">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt161">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt165">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt178">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt190">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt201">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt203">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt214">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt216">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt221">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt224">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt228">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt232">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt235">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt240">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt241">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt247">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt250">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt255">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt257">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt264">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt270">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt272">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt274">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt278">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt284">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt286">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt294">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt295">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt299">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt301">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt303">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt305">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt308">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt312">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt319">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt327">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt329">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt333">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt343">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt344">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt347">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt352">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt354">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt370">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt371">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt375">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt376">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pnt380">
+<BalloonStyle><text>$[description]</text></BalloonStyle>
+<LabelStyle>
+<scale></scale>
+</LabelStyle>
+<IconStyle>
+<color></color>
+<colorMode></colorMode>
+<scale>0.6</scale>
+<Icon>
+<href>../../../../../system/kmlmarker/giallo.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Id:11</name>
+<styleUrl>#pnt11</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC075007</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO MONTINI G. B.</td></tr>
+<tr><td>Indirizzo</td><td>C.SO PORTA ROMANA 105,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1989027,45.4541959,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:15</name>
+<styleUrl>#pnt15</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CLPS00201E</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALEDA VINCI L.</td></tr>
+<tr><td>Indirizzo</td><td>CONTRADA PIANO MANGIONE,Niscemi,CL,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>8</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>14.3878135,37.1485509,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:19</name>
+<styleUrl>#pnt19</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NOPMX00369</td></tr>
+<tr><td>Istituto</td><td>IST.LEGAL.RICON.  MARCELLINE</td></tr>
+<tr><td>Indirizzo</td><td>CORSO REPUBBLICA,2,Arona,NO,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>2.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.5613905,45.7595046,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:25</name>
+<styleUrl>#pnt25</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS01000D</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO G. B. GRASSI</td></tr>
+<tr><td>Indirizzo</td><td>L.GO MONTENERO 3,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3925799,45.8569028,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:28</name>
+<styleUrl>#pnt28</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGRC040009</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO PROFESSIONALE CANIANA</td></tr>
+<tr><td>Indirizzo</td><td>NINI' DA FANO 11,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST  PROF  PER I SERVIZI COMMERCIALI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>9</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6320991,45.6905277,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:30</name>
+<styleUrl>#pnt30</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LEPC01000G</td></tr>
+<tr><td>Istituto</td><td>LICEO STATALE F. CAPECE-MAGLIE</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA ALDO MORO 37,Maglie,LE,Puglia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>18.299045,40.121288,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:32</name>
+<styleUrl>#pnt32</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RCPMX00507</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE LEGALMENTE RICONOSCIUTO   S. VINCENZO DE' PAOLI</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA CASTELLO,1,Reggio di Calabria,RC,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>7.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>15.6436283,38.1061849,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:33</name>
+<styleUrl>#pnt33</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGTD12500B</td></tr>
+<tr><td>Istituto</td><td>IST.TEC. MARIA CONSOLATRICE</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA CEPINO 8,Sant'Omobono Imagna,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST  PROF  PER I SERVIZI COMMERCIALI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.536153,45.805257,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:37</name>
+<styleUrl>#pnt37</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BSTD070001</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO STATALE  EINAUDI L.</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZA MARTIRI DELLA LIBERTA',,Chiari,BS,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.9301704,45.5379073,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:47</name>
+<styleUrl>#pnt47</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS01200T</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE  GIUSEPPE TORNO</td></tr>
+<tr><td>Indirizzo</td><td>PIAZZALE DON MILANI,Castano Primo,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.8107568,45.575929,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:57</name>
+<styleUrl>#pnt57</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPL03500L</td></tr>
+<tr><td>Istituto</td><td>LICEO MARIA AUSILIATRICE</td></tr>
+<tr><td>Indirizzo</td><td>V.CALDONE OLATE 18,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4038163,45.8617073,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:58</name>
+<styleUrl>#pnt58</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS05500E</td></tr>
+<tr><td>Istituto</td><td>COLLEGIO CELANA</td></tr>
+<tr><td>Indirizzo</td><td>V.GIOVANNI XXIII 2/A,Caprino Bergamasco,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>CLASSICO/SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.48282,45.77497,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:62</name>
+<styleUrl>#pnt62</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPM03500A</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SCOLASTICO PARITARIO SUORE SACRAMENTINE</td></tr>
+<tr><td>Indirizzo</td><td>V.S.ANTONINO 8,Bergamo,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>2.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6618696,45.6935298,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:63</name>
+<styleUrl>#pnt63</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPM06500R</td></tr>
+<tr><td>Istituto</td><td>LICEO LEGAL.RICON. MARIA IMMACOLATA</td></tr>
+<tr><td>Indirizzo</td><td>VIA A. DIAZ,1,Gorgonzola,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.410122,45.532654,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:64</name>
+<styleUrl>#pnt64</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BRPM010003</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE STATALEPALUMBO E.</td></tr>
+<tr><td>Indirizzo</td><td>VIA A. GRANDI,1,Brindisi,BR,Puglia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>17.915588,40.445141,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:72</name>
+<styleUrl>#pnt72</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MNRC01000L</td></tr>
+<tr><td>Istituto</td><td>IST. SUPERIORE "BONOMI - MAZZOLARI"</td></tr>
+<tr><td>Indirizzo</td><td>VIA AMADEI 35,Mantova,MN,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST  PROF  PER I SERVIZI COMMERCIALI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>1</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>10.7845745,45.1460659,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:83</name>
+<styleUrl>#pnt83</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCTD02000X</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI G.PARINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BADONI 2,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.4007068,45.8516735,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:84</name>
+<styleUrl>#pnt84</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COPM02500E</td></tr>
+<tr><td>Istituto</td><td>LICEO MATILDE DI CANOSSA</td></tr>
+<tr><td>Indirizzo</td><td>VIA BALESTRA 10,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>4.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0878787,45.8081497,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:86</name>
+<styleUrl>#pnt86</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NOPS03500C</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO LEGALMENTE RICONOSCIUTO   S. LORENZO</td></tr>
+<tr><td>Indirizzo</td><td>VIA BALUARDO LAMARMORA,14,Novara,NO,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.627357,45.4453446,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:92</name>
+<styleUrl>#pnt92</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCRC00500E</td></tr>
+<tr><td>Istituto</td><td>IST.PROFESSIONALE  CASA DEGLI ANGELI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BELVEDERE, 29/31 29/31,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO PROFESSIONALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>2</td></tr>
+<tr><td>% abbandoni facoltà</td><td>100</td></tr>
+<tr><td>Mediana crediti</td><td>NA</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3858781,45.8598118,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:95</name>
+<styleUrl>#pnt95</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC03000N</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO CARDUCCI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BEROLDO 9,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.21436,45.4880978,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:96</name>
+<styleUrl>#pnt96</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITN02000X</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO PER IL TURISMO PIER PAOLO PASOLINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BISTOLFI,15,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO PER IL TURISMO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.245134,45.4732298,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:98</name>
+<styleUrl>#pnt98</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAPM03500V</td></tr>
+<tr><td>Istituto</td><td>IST.MAGISTRALE LEGAL.RICON. CANOSSIANO SACRO CUORE</td></tr>
+<tr><td>Indirizzo</td><td>VIA BONOMI,4,Gallarate,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO DELLE SCIENZE UMANE</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>2</td></tr>
+<tr><td>% abbandoni facoltà</td><td>66.7</td></tr>
+<tr><td>Mediana crediti</td><td>8.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.79189,45.65763,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:102</name>
+<styleUrl>#pnt102</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD430004</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI PRIMO LEVI</td></tr>
+<tr><td>Indirizzo</td><td>VIA BRIANTINA 68,Seregno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>1</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2129604,45.659626,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:121</name>
+<styleUrl>#pnt121</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COTF02000C</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO INDUSTRIALE CARCANO P.</td></tr>
+<tr><td>Indirizzo</td><td>VIA CASTELNUOVO 5,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.75</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0987118,45.8047726,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:132</name>
+<styleUrl>#pnt132</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NOTD030016</td></tr>
+<tr><td>Istituto</td><td>I.T. COMMERCIALE I.T.C."O.F.MOSSOTTI" SEZ.CARCERARIA (SEDE CARCERARIA)</td></tr>
+<tr><td>Indirizzo</td><td>VIA CURTATONE, 5,Novara,NO,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.6313765,45.4368449,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:160</name>
+<styleUrl>#pnt160</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD04301Q</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO BESTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DON CALABRIA 16 16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.75</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2428923,45.4972481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:161</name>
+<styleUrl>#pnt161</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS04300D</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE F. BESTA</td></tr>
+<tr><td>Indirizzo</td><td>VIA DON G.CALABRIA 16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2428923,45.4972481,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:165</name>
+<styleUrl>#pnt165</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS20000P</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO - CLASSICO MARIE CURIE</td></tr>
+<tr><td>Indirizzo</td><td>VIA E. CIALDINI 181,Meda,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>2</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1687225,45.6621228,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:178</name>
+<styleUrl>#pnt178</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS039018</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE RUSSELL B. (GIA' XII)</td></tr>
+<tr><td>Indirizzo</td><td>VIA FRANCESCO GATTI,16,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>1</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1912456,45.5067302,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:190</name>
+<styleUrl>#pnt190</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPC01000A</td></tr>
+<tr><td>Istituto</td><td>LICEO A. MANZONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA GHISLANZONI 7,Lecco,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3950145,45.8516567,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:201</name>
+<styleUrl>#pnt201</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS00200L</td></tr>
+<tr><td>Istituto</td><td>LICEO CLASSICO STATALE S. WEIL</td></tr>
+<tr><td>Indirizzo</td><td>VIA L. GALVANI,7,Treviglio,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO - LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>8.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5857114,45.5198973,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:203</name>
+<styleUrl>#pnt203</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIRC060005</td></tr>
+<tr><td>Istituto</td><td>IST.PROF.SERVIZI COMM.TURISTICI E PUBBLICITA' A. OLIVETTI</td></tr>
+<tr><td>Indirizzo</td><td>VIA LECCO 12,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2824696,45.5861154,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:214</name>
+<styleUrl>#pnt214</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CLIS00400Q</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE  ROSARIO PASQUALINO VASSALLO</td></tr>
+<tr><td>Indirizzo</td><td>VIA LUIGI EINAUDI, 1,Riesi,CL,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>14.092618,37.2785321,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:216</name>
+<styleUrl>#pnt216</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS15000V</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO P. BOTTONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAC MAHON 96/98,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1569643,45.4947505,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:221</name>
+<styleUrl>#pnt221</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>ALPS050005</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO EDOARDO AMALDI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MAMELI 9,Novi Ligure,AL,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.7807691,44.7639223,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:224</name>
+<styleUrl>#pnt224</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LEPM050006</td></tr>
+<tr><td>Istituto</td><td>IST. MAGISTRALE TRICASE</td></tr>
+<tr><td>Indirizzo</td><td>VIA MARINA PORTO,Tricase,LE,Puglia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>2.75</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>18.3696899,39.9297324,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:228</name>
+<styleUrl>#pnt228</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD38500B</td></tr>
+<tr><td>Istituto</td><td>CIVICO PACLE A. MANZONI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MARSALA 8,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1872496,45.4787518,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:232</name>
+<styleUrl>#pnt232</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VBIS00200Q</td></tr>
+<tr><td>Istituto</td><td>C. FERRINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MASSARA 8,Verbania,VB,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>33.3</td></tr>
+<tr><td>Mediana crediti</td><td>7.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.5649885,45.9283925,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:235</name>
+<styleUrl>#pnt235</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS340002</td></tr>
+<tr><td>Istituto</td><td>LICEO G.FALCONE E P. BORSELLINO</td></tr>
+<tr><td>Indirizzo</td><td>VIA MATTEOTTI 31,Arese,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.75</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.07626,45.558269,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:240</name>
+<styleUrl>#pnt240</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>RCPS016011</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALEEUCLIDE</td></tr>
+<tr><td>Indirizzo</td><td>VIA MESOFUGNA,6,Bova Marina,RC,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>11</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>15.9136267,37.9342141,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:241</name>
+<styleUrl>#pnt241</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CORC010008</td></tr>
+<tr><td>Istituto</td><td>IST.PROF.SERVIZI COMM.TUR.E PUB. G.PESSINA</td></tr>
+<tr><td>Indirizzo</td><td>VIA MILANO 182,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>2.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0863788,45.8018979,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:247</name>
+<styleUrl>#pnt247</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VATD190003</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO TECNICO NUCCIA CASULA</td></tr>
+<tr><td>Indirizzo</td><td>VIA MONTE ROSA 11,Varese,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.883474,45.8196785,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:250</name>
+<styleUrl>#pnt250</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>NOPS02000P</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO E. FERMI</td></tr>
+<tr><td>Indirizzo</td><td>VIA MONTENERO 15/A,Arona,NO,Piemonte</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>0.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.5548196,45.7505427,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:255</name>
+<styleUrl>#pnt255</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITN03000E</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.PER IL TURISMO ARTEMISIA GENTILESCHI</td></tr>
+<tr><td>Indirizzo</td><td>VIA NATTA 11,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO PER IL TURISMO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>0.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5955089,45.5836942,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:257</name>
+<styleUrl>#pnt257</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPC01000T</td></tr>
+<tr><td>Istituto</td><td>DECIO CELERI</td></tr>
+<tr><td>Indirizzo</td><td>VIA NAZARIO SAURO, 2,Lovere,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>7</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>10.0707474,45.8133803,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:264</name>
+<styleUrl>#pnt264</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>COPS030001</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE  GIOVIO P.</td></tr>
+<tr><td>Indirizzo</td><td>VIA P. PAOLI,28,Como,CO,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.0776357,45.7874058,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:270</name>
+<styleUrl>#pnt270</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>AGPS060005</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO E. MAJORANA</td></tr>
+<tr><td>Indirizzo</td><td>VIA PANORAMICA DEI TEMPLI 13,Agrigento,AG,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>9</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>13.5765475,37.3110897,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:272</name>
+<styleUrl>#pnt272</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>AGPS02000P</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO ENRICO FERMI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PARMA,Sciacca,AG,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5.75</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>13.0669957,37.5132483,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:274</name>
+<styleUrl>#pnt274</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS012018</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO CAVALLERI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PER CUGGIONO,Castano Primo,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>1</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.771818,45.5532289,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:278</name>
+<styleUrl>#pnt278</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>CRSL01000Q</td></tr>
+<tr><td>Istituto</td><td>LICEO ARTISTICO STATALE MUNARI</td></tr>
+<tr><td>Indirizzo</td><td>VIA PIACENZA (VIA PATRINI),Crema,CR,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>0.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.6882058,45.3469072,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:284</name>
+<styleUrl>#pnt284</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BAPM04000R</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE S. BENEDETTO</td></tr>
+<tr><td>Indirizzo</td><td>VIA POSITANO N. 8,Conversano,BA,Puglia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5.75</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>17.117348,40.967645,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:286</name>
+<styleUrl>#pnt286</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MISL020003</td></tr>
+<tr><td>Istituto</td><td>LICEO ARTISTICO CARAVAGGIO (GIA' II)</td></tr>
+<tr><td>Indirizzo</td><td>VIA PRINETTI  47,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO ARTISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2335709,45.4989856,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:294</name>
+<styleUrl>#pnt294</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS013003</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE "DAVID MARIA TUROLDO"</td></tr>
+<tr><td>Indirizzo</td><td>VIA RONCO 11,Zogno,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - IST TEC COMMERCIALE E PER GEOMETRI - ISTITUTO MAGISTRALE - ISTITUTO TECNICO INDUSTRIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.67345,45.7979153,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:295</name>
+<styleUrl>#pnt295</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPL125001</td></tr>
+<tr><td>Istituto</td><td>LICEO LINGUISTICO MANZONI CIVICA</td></tr>
+<tr><td>Indirizzo</td><td>VIA RUBATTINO,6,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO LINGUISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>7.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.24978,45.476779,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:299</name>
+<styleUrl>#pnt299</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS04000R</td></tr>
+<tr><td>Istituto</td><td>LICEO GALILEI G.</td></tr>
+<tr><td>Indirizzo</td><td>VIA S. FRANCESCO 63,Caravaggio,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.643077,45.5005949,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:301</name>
+<styleUrl>#pnt301</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITF19000B</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.INDUSTRIALE ORDIN.SPECIALE ALBE STEINER</td></tr>
+<tr><td>Indirizzo</td><td>VIA S.DIONIGI 36,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO INDUSTRIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2198221,45.4340175,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:303</name>
+<styleUrl>#pnt303</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPS00500D</td></tr>
+<tr><td>Istituto</td><td>LICEO LA TRACCIA</td></tr>
+<tr><td>Indirizzo</td><td>VIA S.PAOLO DELLA CROCE 2,Calcinate,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.8029655,45.6211349,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:305</name>
+<styleUrl>#pnt305</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VAIS00900X</td></tr>
+<tr><td>Istituto</td><td>IST. D'ISTRUZ. SUPERIORE  "CARLO ALBERTO DALLA CHIESA"</td></tr>
+<tr><td>Indirizzo</td><td>VIA SAN DONATO 1,Sesto Calende,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF INDUSTRIA E ARTIGIANATO - ISTITUTO MAGISTRALE - ISTITUTO TECNICO COMMERCIALE - ISTITUTO TECNICO INDUSTRIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>4</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.6319582,45.7317006,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:308</name>
+<styleUrl>#pnt308</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>KRPMX00180</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE ISTITUTO MAGISTRALE STATALE</td></tr>
+<tr><td>Indirizzo</td><td>VIA SAN PAOLO,Mesoraca,KR,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>0.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>16.7911825,39.0829081,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:312</name>
+<styleUrl>#pnt312</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS050002</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE  FRISI P.</td></tr>
+<tr><td>Indirizzo</td><td>VIA SEMPIONE 21,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>4.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.2656548,45.5834728,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:319</name>
+<styleUrl>#pnt319</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIIS003003</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE VITTORIO BACHELET</td></tr>
+<tr><td>Indirizzo</td><td>VIA STIGNANI 63/65,Abbiategrasso,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO MAGISTRALE - ISTITUTO TECNICO COMMERCIALE - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>1</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.90865,45.391792,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:327</name>
+<styleUrl>#pnt327</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>VARC030007</td></tr>
+<tr><td>Istituto</td><td>IST.PROFESS.SERVIZI COMM.TURISTICI E PUBBLICITA' P.VERRI</td></tr>
+<tr><td>Indirizzo</td><td>VIA TORINO 1,Busto Arsizio,VA,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.869252,45.614795,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:329</name>
+<styleUrl>#pnt329</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPL20500L</td></tr>
+<tr><td>Istituto</td><td>COLLEGIO BIANCONI - MONZA</td></tr>
+<tr><td>Indirizzo</td><td>VIA TORNEAMENTO 1,Monza,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO LINGUISTICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.265879,45.586778,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:333</name>
+<styleUrl>#pnt333</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS25000Q</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO BRAMANTE</td></tr>
+<tr><td>Indirizzo</td><td>VIA TRIESTE 70,Magenta,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3.75</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.8935256,45.4659038,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:343</name>
+<styleUrl>#pnt343</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGIS01100B</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO SUPERIORE STATALE L. EINAUDI</td></tr>
+<tr><td>Indirizzo</td><td>VIA VERDI 48,Dalmine,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST PROF PER I SERVIZI COMMERCIALI E TURISTICI - IST TEC COMMERCIALE E PER GEOMETRI - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.5989801,45.6499563,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:344</name>
+<styleUrl>#pnt344</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPC22500X</td></tr>
+<tr><td>Istituto</td><td>COLLEGIO BALLERINI</td></tr>
+<tr><td>Indirizzo</td><td>VIA VERDI 77,Seregno,MB,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO CLASSICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>3.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.204223,45.656457,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:347</name>
+<styleUrl>#pnt347</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>LCPS00201G</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO VITTORIO BACHELET</td></tr>
+<tr><td>Indirizzo</td><td>VIA VITTORIO BACHELET 2,Oggiono,LC,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.3455127,45.7900132,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:352</name>
+<styleUrl>#pnt352</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>KRPM010006</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE STATALEGRAVINA</td></tr>
+<tr><td>Indirizzo</td><td>VIA XXV APRILE,Crotone,KR,Calabria</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>17.1201682,39.0790628,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:354</name>
+<styleUrl>#pnt354</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>BGPSX00336</td></tr>
+<tr><td>Istituto</td><td>DON BOSCO</td></tr>
+<tr><td>Indirizzo</td><td>VIA ZANOVELLO 1,Treviglio,BG,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>CLASSICO/SCIENTIFICO - LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>3</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.592133,45.52455,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:370</name>
+<styleUrl>#pnt370</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS13000N</td></tr>
+<tr><td>Istituto</td><td>LICEO STATALE GALILEO GALILEI</td></tr>
+<tr><td>Indirizzo</td><td>VIALE GORIZIA 16,Legnano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>8.9234249,45.5888572,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:371</name>
+<styleUrl>#pnt371</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD260006</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI GIOVANNI FALCONE</td></tr>
+<tr><td>Indirizzo</td><td>VIALE ITALIA 22/24,Corsico,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>ISTITUTO TECNICO COMMERCIALE</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>5.25</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1007112,45.4369594,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:375</name>
+<styleUrl>#pnt375</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MITD026012</td></tr>
+<tr><td>Istituto</td><td>IST.TEC.COMM.E GEOMETRI ZAPPA</td></tr>
+<tr><td>Indirizzo</td><td>VIALE MARCHE 71,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>IST TEC COMMERCIALE E PER GEOMETRI</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>0</td></tr>
+<tr><td>% abbandoni facoltà</td><td>0</td></tr>
+<tr><td>Mediana crediti</td><td>4.5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1914985,45.4962388,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:376</name>
+<styleUrl>#pnt376</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>MIPS026016</td></tr>
+<tr><td>Istituto</td><td>LICEO SCIENTIFICO STATALE L. CREMONA</td></tr>
+<tr><td>Indirizzo</td><td>VIALE MARCHE 73,Milano,MI,Lombardia</td></tr>
+<tr><td>Tipologia scuola</td><td>LICEO SCIENTIFICO</td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>6</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>9.1914736,45.4962459,NA</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Id:380</name>
+<styleUrl>#pnt380</styleUrl>
+<description><![CDATA[
+<table rules='all', align='center' style='border:1px solid brown;'>
+<tr><td>Codice</td><td>AGPM02000Q</td></tr>
+<tr><td>Istituto</td><td>ISTITUTO MAGISTRALE MARTIN LUTHER KING</td></tr>
+<tr><td>Indirizzo</td><td>VIALE PIETRO NENNI 136,Favara,AG,Sicilia</td></tr>
+<tr><td>Tipologia scuola</td><td></td></tr>
+<tr><td>Numero immatricolati</td><td>2</td></tr>
+<tr><td>Abbandoni facoltà</td><td>1</td></tr>
+<tr><td>% abbandoni facoltà</td><td>50</td></tr>
+<tr><td>Mediana crediti</td><td>5</td></tr>
+<tr><td>Facoltà</td><td>Scienze della Formazione</td></tr>
+<tr><td>Anno</td><td>2008-2010</td></tr>
+<tr><td>CdL</td><td>SC DELLA FORMAZ PRIMARIA</td></tr>
+</table>
+]]>
+</description>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>13.6713263,37.3229886,NA</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

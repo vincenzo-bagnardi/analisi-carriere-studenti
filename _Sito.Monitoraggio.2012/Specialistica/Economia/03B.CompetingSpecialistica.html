@@ -1,0 +1,1900 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.2, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=windows-1252">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.AfterCaption
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.Batch
+{
+  font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #4F493B;
+}
+.BeforeCaption
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.Body
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.BodyDate
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+  width: 100%;
+  text-align: right;
+  vertical-align: top;
+}
+.ByContentFolder
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.Byline
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.BylineContainer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 1px;
+  border-spacing: 1px;
+  border: 0px solid #000000;
+  width: 100%;
+}
+.Caption
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.Cell
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.Container
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ContentFolder
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.ContentItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.ContentProcLabel
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.ContentProcName
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.Contents
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  margin-left: 8px;
+  margin-right: 8px;
+  list-style-type: decimal;
+}
+.ContentsDate
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  width: 100%;
+}
+.ContentTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.Continued
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+  width: 100%;
+  text-align: left;
+}
+.Data
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.Date
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  width: 100%;
+}
+.Document
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+a:link {
+color:#800080
+}
+a:visited {
+color:#0000FF
+}
+a:active {
+color:#0000FF
+}
+.ErrorBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ErrorContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ErrorContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ExtendedPage
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #FDFBF3;
+  padding: 2pt;
+  border: 1pt solid #000000;
+  text-align: center;
+}
+.FatalBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.FatalContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.FatalContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.FolderAction
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.Footer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.Frame
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.Graph
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #4F493B;
+}
+.Header
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeadersAndFooters
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.HeaderStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.Index
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+}
+.IndexAction
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.IndexItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.IndexProcName
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.IndexTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.LayoutContainer
+{
+  padding: 0px;
+  border-spacing: 30px;
+  border: 0px solid #000000;
+}
+.LayoutRegion
+{
+  padding: 0px;
+  border-spacing: 30px;
+  border: 0px solid #000000;
+}
+.List
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: disc;
+  width: 100%;
+  text-align: left;
+}
+.List10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: circle;
+  width: 100%;
+  text-align: left;
+}
+.List3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.ListItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.Note
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.NoteBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.NoteContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.NoteContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.Output
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #4F493B;
+}
+.PageNo
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+  text-align: right;
+  vertical-align: top;
+}
+.Pages
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  margin-left: 8px;
+  margin-right: 8px;
+  list-style-type: decimal;
+}
+.PagesDate
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  width: 100%;
+}
+.PagesItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.PagesProcLabel
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.PagesProcName
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.PagesTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.Paragraph
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  width: 100%;
+  text-align: left;
+}
+.Parskip
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  padding: 0px;
+  border-spacing: 0px;
+  border: 0px solid #000000;
+}
+.PrePage
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  text-align: left;
+}
+.ProcTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.ProcTitleFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.RowFooter
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowHeader
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.SystemFooter
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SysTitleAndFooterContainer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 1px;
+  border-spacing: 1px;
+  border: 0px solid #000000;
+  width: 100%;
+}
+.Table
+{
+  border-collapse: separate;
+  border-spacing: 0px;
+  border-top-width: 1px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 1px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+}
+.TitleAndNoteContainer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 1px;
+  border-spacing: 1px;
+  border: 0px solid #000000;
+  width: 100%;
+}
+.TitlesAndFooters
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.UserText
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  text-align: left;
+}
+.WarnBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.WarnContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.WarnContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="Body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<div>
+<div  class="c">
+<img alt="Diagramma di function per tempo identificato da evento" src="gplot19.jpg" style=" border-width: 0px; height: 600px; width: 800px;" border="0" class="c Graph">
+</div>
+</div>
+<br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX1"></a>
+<div>
+<div  class="c">
+<img alt="Diagramma di function per tempo identificato da evento" src="gplot20.jpg" style=" border-width: 0px; height: 600px; width: 800px;" border="0" class="c Graph">
+</div>
+</div>
+<br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX2"></a>
+<div>
+<div  class="c">
+<img alt="Diagramma di function per tempo identificato da evento" src="gplot21.jpg" style=" border-width: 0px; height: 600px; width: 800px;" border="0" class="c Graph">
+</div>
+</div>
+<br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX3"></a>
+<div>
+<div  class="c">
+<img alt="Diagramma di function per tempo identificato da evento" src="gplot22.jpg" style=" border-width: 0px; height: 600px; width: 800px;" border="0" class="c Graph">
+</div>
+</div>
+<br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX4"></a>
+<div>
+<div  class="c">
+<img alt="Diagramma di function per tempo identificato da evento" src="gplot23.jpg" style=" border-width: 0px; height: 600px; width: 800px;" border="0" class="c Graph">
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX5"></a>
+<div>
+<div align="center">
+<table  summary="Page Layout"><tr>
+<td class="l BeforeCaption">cdl_cod_primo 546</td>
+</tr><tr><td><div align="center">
+<table class="Table" cellspacing="0" cellpadding="3" rules="all" frame="box" bordercolor="#4F493B" summary="Procedure Tabulate: Tabella 1">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">Anno di Corso</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I        </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II       </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I F.C.   </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II F.C.  </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">III F.C. </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">IV F.C.  </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">V F.C.   </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">VI F.C.  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Abbandono</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        11.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        15.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        17.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        18.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        23.4</td>
+</tr>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Laurea</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        59.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        73.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        74.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.6</td>
+</tr>
+</tbody>
+</table>
+</div>
+</tr>
+</table>
+</div>
+<table class="SysTitleAndFooterContainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="l SystemFooter" style=" font-size: 10pt;">Nota metodologica.</td>
+</tr>
+<tr>
+<td class="l SystemFooter2" style=" font-size: 10pt;">Le definizioni di abbandono della Facoltà e di laurea nell’n-mo anno di corso sono di seguito descritte. Un immatricolato ad un CdL Triennale appartenente alla coorte t abbandona quando, pur non essendosi laureato, non si iscrive alla Facoltà nell’a.a. relativo al suo (n+1)-mo anno di corso (vengono considerati anche gli anni fuori corso – F.C.). Più semplicemente, un immatricolato appartenente alla coorte t si laurea nell’n-mo anno di corso quando consegue il diploma di laurea, per uno dei CdL Specialistica/Magistrale della Facoltà, in una delle sessioni dell’a.a. relativo. Il calcolo delle probabilità cumulative di abbandono e di laurea è stato effettuato tenendo conto, per ogni anno di corso, del numero effettivo di soggetti a rischio di sperimentare gli eventi presi in considerazione e del fatto che gli eventi considerati sono tra loro mutuamente esclusivi (Putter H, Fiocco M, Geskus RB. Tutorial in biostatistics: competing risks and multistate models. Statistics in Medicine. 2007; 26: 2389-430).</td>
+</tr>
+</table><br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX6"></a>
+<div align="center">
+<table  summary="Page Layout"><tr>
+<td class="l BeforeCaption">cdl_cod_primo 547</td>
+</tr><tr><td><div align="center">
+<table class="Table" cellspacing="0" cellpadding="3" rules="all" frame="box" bordercolor="#4F493B" summary="Procedure Tabulate: Tabella 1">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">Anno di Corso</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I        </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II       </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I F.C.   </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II F.C.  </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">III F.C. </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">IV F.C.  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Abbandono</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        22.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        26.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        28.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        28.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        28.3</td>
+</tr>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Laurea</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        31.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        57.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        65.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        67.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        67.5</td>
+</tr>
+</tbody>
+</table>
+</div>
+</tr>
+</table>
+</div>
+<table class="SysTitleAndFooterContainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="l SystemFooter" style=" font-size: 10pt;">Nota metodologica.</td>
+</tr>
+<tr>
+<td class="l SystemFooter2" style=" font-size: 10pt;">Le definizioni di abbandono della Facoltà e di laurea nell’n-mo anno di corso sono di seguito descritte. Un immatricolato ad un CdL Triennale appartenente alla coorte t abbandona quando, pur non essendosi laureato, non si iscrive alla Facoltà nell’a.a. relativo al suo (n+1)-mo anno di corso (vengono considerati anche gli anni fuori corso – F.C.). Più semplicemente, un immatricolato appartenente alla coorte t si laurea nell’n-mo anno di corso quando consegue il diploma di laurea, per uno dei CdL Specialistica/Magistrale della Facoltà, in una delle sessioni dell’a.a. relativo. Il calcolo delle probabilità cumulative di abbandono e di laurea è stato effettuato tenendo conto, per ogni anno di corso, del numero effettivo di soggetti a rischio di sperimentare gli eventi presi in considerazione e del fatto che gli eventi considerati sono tra loro mutuamente esclusivi (Putter H, Fiocco M, Geskus RB. Tutorial in biostatistics: competing risks and multistate models. Statistics in Medicine. 2007; 26: 2389-430).</td>
+</tr>
+</table><br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX7"></a>
+<div align="center">
+<table  summary="Page Layout"><tr>
+<td class="l BeforeCaption">cdl_cod_primo 551</td>
+</tr><tr><td><div align="center">
+<table class="Table" cellspacing="0" cellpadding="3" rules="all" frame="box" bordercolor="#4F493B" summary="Procedure Tabulate: Tabella 1">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">Anno di Corso</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I        </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II       </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I F.C.   </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II F.C.  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Abbandono</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        12.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        15.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        15.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        17.5</td>
+</tr>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Laurea</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        56.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        79.8</td>
+</tr>
+</tbody>
+</table>
+</div>
+</tr>
+</table>
+</div>
+<table class="SysTitleAndFooterContainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="l SystemFooter" style=" font-size: 10pt;">Nota metodologica.</td>
+</tr>
+<tr>
+<td class="l SystemFooter2" style=" font-size: 10pt;">Le definizioni di abbandono della Facoltà e di laurea nell’n-mo anno di corso sono di seguito descritte. Un immatricolato ad un CdL Triennale appartenente alla coorte t abbandona quando, pur non essendosi laureato, non si iscrive alla Facoltà nell’a.a. relativo al suo (n+1)-mo anno di corso (vengono considerati anche gli anni fuori corso – F.C.). Più semplicemente, un immatricolato appartenente alla coorte t si laurea nell’n-mo anno di corso quando consegue il diploma di laurea, per uno dei CdL Specialistica/Magistrale della Facoltà, in una delle sessioni dell’a.a. relativo. Il calcolo delle probabilità cumulative di abbandono e di laurea è stato effettuato tenendo conto, per ogni anno di corso, del numero effettivo di soggetti a rischio di sperimentare gli eventi presi in considerazione e del fatto che gli eventi considerati sono tra loro mutuamente esclusivi (Putter H, Fiocco M, Geskus RB. Tutorial in biostatistics: competing risks and multistate models. Statistics in Medicine. 2007; 26: 2389-430).</td>
+</tr>
+</table><br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX8"></a>
+<div align="center">
+<table  summary="Page Layout"><tr>
+<td class="l BeforeCaption">cdl_cod_primo 557</td>
+</tr><tr><td><div align="center">
+<table class="Table" cellspacing="0" cellpadding="3" rules="all" frame="box" bordercolor="#4F493B" summary="Procedure Tabulate: Tabella 1">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">Anno di Corso</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I        </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II       </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I F.C.   </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II F.C.  </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">III F.C. </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">IV F.C.  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Abbandono</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        12.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        18.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        21.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        25.2</td>
+</tr>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Laurea</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        46.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        67.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        72.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        74.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        74.8</td>
+</tr>
+</tbody>
+</table>
+</div>
+</tr>
+</table>
+</div>
+<table class="SysTitleAndFooterContainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="l SystemFooter" style=" font-size: 10pt;">Nota metodologica.</td>
+</tr>
+<tr>
+<td class="l SystemFooter2" style=" font-size: 10pt;">Le definizioni di abbandono della Facoltà e di laurea nell’n-mo anno di corso sono di seguito descritte. Un immatricolato ad un CdL Triennale appartenente alla coorte t abbandona quando, pur non essendosi laureato, non si iscrive alla Facoltà nell’a.a. relativo al suo (n+1)-mo anno di corso (vengono considerati anche gli anni fuori corso – F.C.). Più semplicemente, un immatricolato appartenente alla coorte t si laurea nell’n-mo anno di corso quando consegue il diploma di laurea, per uno dei CdL Specialistica/Magistrale della Facoltà, in una delle sessioni dell’a.a. relativo. Il calcolo delle probabilità cumulative di abbandono e di laurea è stato effettuato tenendo conto, per ogni anno di corso, del numero effettivo di soggetti a rischio di sperimentare gli eventi presi in considerazione e del fatto che gli eventi considerati sono tra loro mutuamente esclusivi (Putter H, Fiocco M, Geskus RB. Tutorial in biostatistics: competing risks and multistate models. Statistics in Medicine. 2007; 26: 2389-430).</td>
+</tr>
+</table><br>
+<p style="page-break-after: always;"><br></p><hr size="3">
+<a name="IDX9"></a>
+<div align="center">
+<table  summary="Page Layout"><tr>
+<td class="l BeforeCaption">cdl_cod_primo 560</td>
+</tr><tr><td><div align="center">
+<table class="Table" cellspacing="0" cellpadding="3" rules="all" frame="box" bordercolor="#4F493B" summary="Procedure Tabulate: Tabella 1">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">Anno di Corso</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I        </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II       </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">I F.C.   </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">II F.C.  </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">III F.C. </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">IV F.C.  </th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">V F.C.   </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Abbandono</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        11.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        14.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        18.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        21.2</td>
+</tr>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="row">Laurea</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        51.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        67.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        71.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        74.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        77.8</td>
+</tr>
+</tbody>
+</table>
+</div>
+</tr>
+</table>
+</div>
+</div>
+<br>
+<table class="SysTitleAndFooterContainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="l SystemFooter" style=" font-size: 10pt;">Nota metodologica.</td>
+</tr>
+<tr>
+<td class="l SystemFooter2" style=" font-size: 10pt;">Le definizioni di abbandono della Facoltà e di laurea nell’n-mo anno di corso sono di seguito descritte. Un immatricolato ad un CdL Triennale appartenente alla coorte t abbandona quando, pur non essendosi laureato, non si iscrive alla Facoltà nell’a.a. relativo al suo (n+1)-mo anno di corso (vengono considerati anche gli anni fuori corso – F.C.). Più semplicemente, un immatricolato appartenente alla coorte t si laurea nell’n-mo anno di corso quando consegue il diploma di laurea, per uno dei CdL Specialistica/Magistrale della Facoltà, in una delle sessioni dell’a.a. relativo. Il calcolo delle probabilità cumulative di abbandono e di laurea è stato effettuato tenendo conto, per ogni anno di corso, del numero effettivo di soggetti a rischio di sperimentare gli eventi presi in considerazione e del fatto che gli eventi considerati sono tra loro mutuamente esclusivi (Putter H, Fiocco M, Geskus RB. Tutorial in biostatistics: competing risks and multistate models. Statistics in Medicine. 2007; 26: 2389-430).</td>
+</tr>
+</table><br>
+</div>
+</body>
+</html>

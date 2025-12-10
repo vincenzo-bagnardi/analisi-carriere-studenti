@@ -1,0 +1,28 @@
+<?xml version='1.0'?>                         
+<kml xmlns='http://www.opengis.net/kml/2.2'>  
+	<Document>                                   
+		<LookAt>                                   
+		<longitude>9.5</longitude>                 
+		<latitude>45.5</latitude>                  
+		<heading>0</heading>                       
+		<tilt>30</tilt>                            
+		<range>200000</range>                      
+	</LookAt>                                    
+		<NetworkLink>                              
+			<name>GIURISPRUDENZA</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>GIURISPRUDENZA/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>SC OPERATORI DEI SERVIZI GIURIDICI</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>SC OPERATORI DEI SERVIZI GIURIDICI/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+	</Document>                                   
+</kml>                                         

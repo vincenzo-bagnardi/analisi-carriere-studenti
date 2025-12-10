@@ -1,0 +1,60 @@
+<?xml version='1.0'?>                         
+<kml xmlns='http://www.opengis.net/kml/2.2'>  
+	<Document>                                   
+		<LookAt>                                   
+		<longitude>9.5</longitude>                 
+		<latitude>45.5</latitude>                  
+		<heading>0</heading>                       
+		<tilt>30</tilt>                            
+		<range>200000</range>                      
+	</LookAt>                                    
+		<NetworkLink>                              
+			<name>ECON DELLE BANCHE DELLE ASS</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>ECON DELLE BANCHE DELLE ASS/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>ECON E AMMIN IMPRESE</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>ECON E AMMIN IMPRESE/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>ECON E COMMERCIO</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>ECON E COMMERCIO/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>ECON E GEST DEI SERV TUR</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>ECON E GEST DEI SERV TUR/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>ECON STAT E INFO</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>ECON STAT E INFO/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+		<NetworkLink>                              
+			<name>MARK COM E MER INTERN</name>         
+			<open>0</open>                           
+			<visibility>0</visibility>               
+			<Link>                                   
+				<href>MARK COM E MER INTERN/unione.kml</href>
+			</Link>                                  
+		</NetworkLink>                             
+	</Document>                                   
+</kml>                                         

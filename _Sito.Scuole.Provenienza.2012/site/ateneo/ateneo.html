@@ -1,0 +1,131 @@
+
+  
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+
+	<!-- mappe e kml tree -->
+	<script src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript" src="http://earth-api-utility-library.googlecode.com/svn/trunk/extensions/dist/extensions.pack.js"></script>
+	<script type="text/javascript" src="http://geojs.googlecode.com/svn/trunk/dist/geo.pack.js"></script>
+	<script type="text/javascript">google.load("visualization", "1.1", {packages: ["controls"]});</script>
+	
+	<link   rel="stylesheet" 		href="../../system/kmltree/kmltree.css" media="screen">
+	<script type="text/javascript" 	src ="../../system/kmltree/kmltree.min.js"></script>
+	
+	<!-- varie: angoli arrotondati, bottoni e show/hide -->
+	<script type="text/javascript" src="../../system/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="../../system/jquery/jquery.corner.js"></script>
+	<script type="text/javascript" src="../../system/varie.js"></script>
+  <script type="text/javascript" src="../../system/maps.js"></script>
+	
+	<!-- griglia -->
+	<script type="text/javascript" src="data.js"></script>   
+
+	<script>setTimeout(function(){initialize()},0);</script>
+	<script>setTimeout(function(){drawVisualization()},0);</script>
+	<script>setTimeout(function(){init()},4000);</script>
+</head>
+
+
+
+<body onLoad="" style="background-color:beige;overflow-y:scroll;">
+<h2 align="center" style="color:brown;">Totali di Ateneo</h2>
+<h3 align="center" style="color:brown;">Analisi delle scuole di provenienza delle matricole</h3>
+   <div style="display:block;">
+     <table align="center" style="">
+       <tr>
+          <td>
+      			 <div id="menu2" onClick="mappa()" style="cursor:pointer;corsor:hand;width:120px;text-align:center;background-color:brown;color:beige;">Mappa</div>
+      		</td>
+      		<td>
+      			 <div id="menu3" onClick="griglia()" style="cursor:pointer;corsor:hand;width:120px;text-align:center;background-color:brown;color:beige;">Dati</div>
+      		</td>
+      		<td>
+      			<div id="menu1" onClick="tutto()" style="cursor:pointer;corsor:hand;width:120px;text-align:center;background-color:brown;color:beige;">All</div>
+      		</td>
+      		<td>
+      			 <div id="menu6" onClick="help()" style="cursor:pointer;corsor:hand;width:120px;text-align:center;background-color:brown;color:beige;">Help</div>
+      		</td>
+      		<td>
+      			 <div id="menu4" onClick="location.href='../../index.html'" style="cursor:pointer;corsor:hand;width:120px;text-align:center;background-color:brown;color:beige;">Home</div>
+      		</td>
+       </tr>
+		</table>
+	<br/>
+   </div>
+
+   <div id="mappa" style="display:block;">
+	<br/>
+     <table id="mappaTable" align="center" style="border:1px solid brown;">
+       <tr>
+         <td style="vertical-align:top;">
+           <div id="tree" style="float:left;width:250px;height:400px;overflow:auto;"></div>
+         </td>
+         <td style="vertical-align:top;">
+           <div id="map3d" style="float:left; height: 400px; width: 600px;"></div>
+         </td>
+         <td style="vertical-align:top;">
+           <div><button id="full-map3d"       style="width:40px; height:20px">++</button></div>
+           <div><button id="resize-map3d"     style="width:40px; height:20px">--</button></div>
+           <div><button id="larghezza-map3d"  style="width:40px; height:20px">W+</button></div>
+           <div><button id="larghezza1-map3d" style="width:40px; height:20px">W-</button></div>
+           <div><button id="altezza-map3d"    style="width:40px; height:20px">H+</button></div>
+           <div><button id="altezza1-map3d"   style="width:40px; height:20px">H-</button></div>
+         </td>
+       </tr>
+     </table>
+   </div>
+
+<div id="dashboard" style="display:none;">
+	<br/>
+     <table id="dashboardTable" align="center" style="border:1px solid brown;" >
+       <tr>
+         <td>
+           <div id="control9"></div>
+           <div id="control1"></div>
+           <div id="control2"></div>
+           <div id="control3"></div>
+           <div id="control4"></div>
+           <div id="control5"></div>
+           <div id="control6"></div>
+           <div id="control7"></div>
+		   <div id="control8"></div>
+           <div id="control10"></div>
+         </td>
+         <td>
+           <div id="chart1"></div>  
+		  </td>
+		  <td style="vertical-align:top;">
+  			<div><button id="a" style="width:40px; height:20px">++</button></div>
+  			<div><button id="b" style="width:40px; height:20px">--</button></div>
+  			<div><button id="c" style="width:40px; height:20px">W+</button></div>
+  			<div><button id="d" style="width:40px; height:20px">W-</button></div>
+  			<div><button id="e" style="width:40px; height:20px">H+</button></div>			
+  			<div><button id="f" style="width:40px; height:20px">H-</button></div>
+		 </td>
+		 
+       </tr>
+     </table>
+     <br/>
+   </div>
+
+  
+   <div id="helpDiv" style="display:none;">
+	<br/>
+     <table id="helpTable" align="center" style="border:1px solid brown;">
+       <tr>
+         <td>
+           <div style="width:900px;height:400px;">
+				<iframe src="../../help.htm" style="width:900px;height:400px;frameborder:0;scrolling:auto"></iframe>
+		   </div>
+         </td>
+       </tr>
+     </table>
+   </div>
+
+</body>
+</html>  
+
+
+  

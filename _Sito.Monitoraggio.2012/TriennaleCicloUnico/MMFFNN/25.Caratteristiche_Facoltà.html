@@ -1,0 +1,2597 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.2, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=windows-1252">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.AfterCaption
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.Batch
+{
+  font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #4F493B;
+}
+.BeforeCaption
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.Body
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.BodyDate
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+  width: 100%;
+  text-align: right;
+  vertical-align: top;
+}
+.ByContentFolder
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.Byline
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.BylineContainer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 1px;
+  border-spacing: 1px;
+  border: 0px solid #000000;
+  width: 100%;
+}
+.Caption
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+}
+.Cell
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.Container
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ContentFolder
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.ContentItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.ContentProcLabel
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.ContentProcName
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.Contents
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  margin-left: 8px;
+  margin-right: 8px;
+  list-style-type: decimal;
+}
+.ContentsDate
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  width: 100%;
+}
+.ContentTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.Continued
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+  width: 100%;
+  text-align: left;
+}
+.Data
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.DataStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.Date
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  width: 100%;
+}
+.Document
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+a:link {
+color:#800080
+}
+a:visited {
+color:#0000FF
+}
+a:active {
+color:#0000FF
+}
+.ErrorBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ErrorContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ErrorContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ExtendedPage
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #FDFBF3;
+  padding: 2pt;
+  border: 1pt solid #000000;
+  text-align: center;
+}
+.FatalBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.FatalContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.FatalContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.FolderAction
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.Footer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.FooterStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.Frame
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.Graph
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #4F493B;
+}
+.Header
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeadersAndFooters
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.HeaderStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.HeaderStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.Index
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+}
+.IndexAction
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.IndexItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.IndexProcName
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.IndexTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.LayoutContainer
+{
+  padding: 0px;
+  border-spacing: 30px;
+  border: 0px solid #000000;
+}
+.LayoutRegion
+{
+  padding: 0px;
+  border-spacing: 30px;
+  border: 0px solid #000000;
+}
+.List
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: disc;
+  width: 100%;
+  text-align: left;
+}
+.List10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: circle;
+  width: 100%;
+  text-align: left;
+}
+.List3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.ListItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.ListItem9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.Note
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.NoteBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.NoteContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.NoteContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.Output
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #4F493B;
+}
+.PageNo
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+  padding: 0px;
+  border-spacing: 0px;
+  text-align: right;
+  vertical-align: top;
+}
+.Pages
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  margin-left: 8px;
+  margin-right: 8px;
+  list-style-type: decimal;
+}
+.PagesDate
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #F4F2E9;
+  width: 100%;
+}
+.PagesItem
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  margin-left: 6pt;
+  list-style-type: none;
+}
+.PagesProcLabel
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.PagesProcName
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.PagesTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: italic;
+  color: #4F493B;
+  background-color: #F4F2E9;
+}
+.Paragraph
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  width: 100%;
+  text-align: left;
+}
+.Parskip
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  padding: 0px;
+  border-spacing: 0px;
+  border: 0px solid #000000;
+}
+.PrePage
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  text-align: left;
+}
+.ProcTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.ProcTitleFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.RowFooter
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowFooterStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #E8E6DA;
+}
+.RowHeader
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderEmphasis
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderEmphasisFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: italic;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderEmpty
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderStrong
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.RowHeaderStrongFixed
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #E8E6DA;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.SystemFooter
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemFooter9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.SystemTitle
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle10
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle2
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle3
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle4
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle5
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle6
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle7
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle8
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SystemTitle9
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.SysTitleAndFooterContainer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 1px;
+  border-spacing: 1px;
+  border: 0px solid #000000;
+  width: 100%;
+}
+.Table
+{
+  border-collapse: separate;
+  border-spacing: 0px;
+  border-top-width: 1px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 1px;
+  border-color: #4F493B;
+  border-style: solid;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+}
+.TitleAndNoteContainer
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  padding: 1px;
+  border-spacing: 1px;
+  border: 0px solid #000000;
+  width: 100%;
+}
+.TitlesAndFooters
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #4F493B;
+  background-color: #FDFBF3;
+}
+.UserText
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+  text-align: left;
+}
+.WarnBanner
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.WarnContent
+{
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.WarnContentFixed
+{
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #FDFBF3;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="Body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="SysTitleAndFooterContainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c SystemTitle" style=" font-size: 15pt;">MMFFNN</td>
+</tr>
+<tr>
+<td class="c SystemTitle2" style=" font-size: 15pt;">Composizione delle coorti di immatricolati alla Facoltà.</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="Table" cellspacing="0" cellpadding="3" rules="all" frame="box" bordercolor="#4F493B" summary="Procedure Tabulate: Tabella 1">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" rowspan="2" colspan="2" scope="colgroup">Variabili</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2000</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2001</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2002</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2003</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2004</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2005</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2006</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2007</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2008</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2009</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2010</th>
+<th class="c m Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" colspan="2" scope="colgroup">2011</th>
+</tr>
+<tr>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">N</th>
+<th class="c b Header" style=" font-family: Arial; font-size: xx-small; font-weight: bold; font-style: normal; color: #000000; background-color: #C0C0C0;" scope="col">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" rowspan="11" scope="rowgroup">Cdl di Iscrizione</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">501       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         372</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        30.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         371</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        26.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         247</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         139</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        11.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         339</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        23.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         308</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        21.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         273</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         332</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        22.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         259</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         294</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         433</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        23.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         178</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        10.7</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">502       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          17</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          25</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          28</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          32</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          26</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          60</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          50</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          48</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          43</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          58</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         156</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         9.4</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">512       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          58</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          72</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          77</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         100</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         8.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          87</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         100</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         114</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         8.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         111</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         7.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         106</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         8.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         108</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         7.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         122</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         121</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         7.3</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">516       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         476</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        39.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         467</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        32.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         390</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        32.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         376</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        30.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         373</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        25.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         344</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        23.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         279</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         291</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         247</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         302</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         299</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         294</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        17.6</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">517       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          28</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          44</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          43</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          52</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          51</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          62</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          73</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          76</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          99</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         7.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          80</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          92</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         112</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.7</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">520       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          83</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          40</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          48</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          68</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          54</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          63</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          78</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          69</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          90</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         127</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         323</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.4</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">521       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          32</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          42</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          51</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          48</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          51</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          92</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          75</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          81</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          41</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          58</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          57</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          71</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.3</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">522       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          87</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         7.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         148</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        10.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         177</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        14.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         262</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        21.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         289</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         325</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        22.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         295</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        21.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         299</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         262</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         326</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        22.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         470</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        25.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         173</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        10.4</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">528       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          24</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          52</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          45</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          66</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          53</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          37</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          42</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          38</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          59</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          60</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          73</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         3.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          71</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.3</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">529       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          16</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          23</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          21</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          33</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         2.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          15</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          14</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          15</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          21</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          18</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         1.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          16</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         0.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">530       </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         138</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        11.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         116</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         8.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          94</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         7.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          82</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          71</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         4.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          81</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          76</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         108</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         7.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">          83</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         102</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         6.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         107</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         5.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         168</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        10.1</td>
+</tr>
+<tr>
+<th class="c m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" rowspan="3" scope="rowgroup">Cittadinanza</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Comunitaria                   </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          10</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          16</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         1.0</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Extracomunitaria              </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          23</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         1.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          25</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          20</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         1.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          25</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         1.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          22</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         1.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          32</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          33</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          36</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          47</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          59</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          54</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.2</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Italiana                      </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1214</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        99.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1400</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        98.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1182</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        97.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1198</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        98.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1422</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        98.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1420</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        98.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1326</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        97.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1439</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        97.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1252</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        96.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1424</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        96.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1788</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        96.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1597</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        95.8</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" rowspan="4" scope="rowgroup">Classe di reddito §</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">Mancante</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">           1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         0.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">.</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">Bassa   </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         221</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        18.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         267</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        18.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         257</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        21.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         255</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         287</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         237</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         183</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        13.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         244</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         228</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        17.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         263</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        17.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         325</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        17.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         295</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        17.7</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">Media   </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         797</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        65.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         953</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        66.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         833</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        68.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         788</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        64.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         995</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        68.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1014</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        70.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         957</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        70.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         573</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        38.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         479</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        37.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         647</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        43.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         756</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        40.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         678</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        40.7</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">Alta    </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         197</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         208</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        14.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         122</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        10.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         179</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        14.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         165</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        11.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         193</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        13.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         224</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        16.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         661</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        44.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         587</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        45.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         571</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        38.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         773</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        41.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         694</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        41.6</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" rowspan="2" scope="rowgroup">Età all&#39;Iscrizione</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">&lt;20 </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         839</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        69.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         942</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        66.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         767</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        63.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         794</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        65.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         960</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        66.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1060</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        73.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         955</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        70.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1062</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        71.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         915</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        70.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1033</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        69.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1261</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        68.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1116</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        66.9</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">&gt;=20</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         376</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        30.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         486</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        34.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         445</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        36.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         428</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        35.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         487</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        33.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         384</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        26.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         409</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        30.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         417</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        28.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         379</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        29.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         448</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        30.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         593</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        32.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         551</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        33.1</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" rowspan="2" scope="rowgroup">Genere</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">F </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         417</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        34.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         542</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        38.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         445</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        36.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         444</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        36.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         615</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        42.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         578</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        40.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         538</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        39.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         627</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        42.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         567</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        43.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         623</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        42.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         860</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        46.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         790</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        47.4</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">M </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         798</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        65.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         886</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        62.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         767</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        63.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         778</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        63.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         832</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        57.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         866</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        60.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         826</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        60.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         852</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        57.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         727</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        56.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         858</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        57.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         994</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        53.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         877</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        52.6</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" rowspan="4" scope="rowgroup">Residenza</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Milano               </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         201</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        16.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         260</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        18.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         221</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        18.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         202</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        16.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         227</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        15.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         201</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        13.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         173</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         190</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         178</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        13.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         185</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         235</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         200</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.0</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Prov. MI(no Milano)  </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         337</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        27.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         375</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        26.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         313</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        25.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         316</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        25.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         378</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        26.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         389</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        26.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         326</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        23.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         373</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        25.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         282</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        21.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         343</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        23.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         407</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        22.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         357</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        21.4</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Lombardia(no MI/Prov)</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         577</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        47.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         661</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        46.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         564</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        46.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         596</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        48.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         691</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        47.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         719</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        49.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         731</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        53.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         752</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        50.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         681</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        52.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         771</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        52.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         971</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        52.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         868</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        52.1</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Altro                </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         100</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         8.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         132</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         9.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         114</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         9.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         108</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         8.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         151</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        10.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         135</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         9.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         134</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         9.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         164</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        11.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         153</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        11.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         182</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         241</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        13.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         242</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        14.5</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" rowspan="2" scope="rowgroup">Voto Maturità #</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">Alto </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         236</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        19.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         300</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        21.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         297</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        24.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         299</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        24.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         345</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        23.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         343</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        23.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         309</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        22.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         305</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         263</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        20.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         225</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        15.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         264</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        14.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         243</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        14.6</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;" scope="row">Basso</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         979</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        80.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1128</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        79.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         915</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        75.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">         923</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        75.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1102</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1101</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        76.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1055</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        77.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1174</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        79.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1031</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        79.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1256</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        84.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1590</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        85.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        1424</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #FFFFFF;">        85.4</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" rowspan="7" scope="rowgroup">Tipo di Maturità</th>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Class/Scient.      </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         714</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        58.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         766</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        53.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         585</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        48.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         576</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        47.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         707</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        48.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         769</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        53.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         742</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        54.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         838</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        56.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         800</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        61.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         831</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        56.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        1130</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        60.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         976</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        58.5</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Tecnico commerciale</th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          96</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         7.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         157</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        11.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          93</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         7.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          90</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         7.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          82</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         5.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          67</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          66</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          64</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          59</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          85</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         5.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          89</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          76</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.6</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Altre Tecniche     </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         212</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        17.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         231</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        16.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         255</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        21.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         282</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        23.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         314</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        21.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         341</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        23.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         310</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        22.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         317</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        21.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         224</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        17.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         262</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        17.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         304</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        16.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         297</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        17.8</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Magistrale         </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          28</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          35</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          48</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          41</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          68</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          51</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          62</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          72</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          50</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          71</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         103</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         5.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         106</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         6.4</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Professionale      </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         125</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        10.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         170</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        11.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         135</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        11.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         157</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         178</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">        12.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         131</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         9.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          90</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         6.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          88</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         5.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          77</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         6.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         110</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         7.4</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          92</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         5.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          77</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.6</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Linguistico        </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          31</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          26</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         1.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          38</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.1</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          25</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          51</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.5</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          43</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          50</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          55</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          38</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          63</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.3</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          68</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          70</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.2</td>
+</tr>
+<tr>
+<th class="l m RowHeader" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;" scope="row">Altro              </th>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">           9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         0.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          43</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          58</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.8</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          51</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          47</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          42</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         2.9</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          44</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.2</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          45</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          46</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.6</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          59</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         4.0</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          68</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.7</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">          65</td>
+<td class="c m Data" style=" font-family: Arial; font-size: xx-small; font-weight: normal; font-style: normal; color: #000000; background-color: #E6E6E6;">         3.9</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+<table class="SysTitleAndFooterContainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="l SystemFooter" style=" font-size: 10pt;">Nota metodologica.</td>
+</tr>
+<tr>
+<td class="l SystemFooter2" style=" font-size: 10pt;">§ Il numero e la definizione delle classi di reddito riportati negli archivi delle segreterie studenti varia al variare dell’anno accademico considerato. Nella presente analisi si è cercato di ridurle e uniformarle in tre soli livelli (Bassa, Media e Alta).</td>
+</tr>
+<tr>
+<td class="l SystemFooter3" style=" font-size: 10pt;"># Alto: ³54/60, ³90/100; Basso: &lt;54/60, &lt;90/100.</td>
+</tr>
+</table><br>
+</div>
+</body>
+</html>
